@@ -1,6 +1,5 @@
 ---
-extends: base.j2
-default_block: main
+layout: default
 title: Bio
 description: About me, by me.
 ---

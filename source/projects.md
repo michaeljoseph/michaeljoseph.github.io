@@ -1,6 +1,4 @@
 ---
-extends: base.j2
-default_block: main
 title: Projects
 description: The things I do, that I like.
 ---
@@ -9,5 +7,3 @@ description: The things I do, that I like.
 <readme blurb; img>
 
 [remarkable]()
-""
-

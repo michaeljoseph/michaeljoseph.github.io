@@ -8,4 +8,8 @@ Just the right (tasteful) amount of everything(hell to shop for, the gift cards 
 in the bottom shelf)
 
 They emerge (blinking), one day, many years later, gasping for breath.
+Finding theselves slowly suffocating in the vacuum of their edifice.
+
+She tired first. Let her pole sag.
+
 
