@@ -1,9 +1,8 @@
-# Mindstorms EV3
+# Mindstorms EV3 Research And References
 
 ## Sensors
 
 - accelerometer: http://www.mindsensors.com/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=171
-- 
 
 ## Addons
 
@@ -44,9 +43,3 @@ doppelbot / mebot
 
 ### run a webserver; self promotion robot: serves your website over wifi
 or bluetooth payloads, like shopping mall advertising.
-
-
-
-
-
-
