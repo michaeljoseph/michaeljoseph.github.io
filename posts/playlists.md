@@ -1,0 +1,44 @@
+# playlist
+
+- mariah
+  - fantasy http://m.youtube.com/watch?v=qq09UkPRdFY
+  - always http://m.youtube.com/watch?v=LfRNRymrv9k
+  - emotions http://youtu.be/NrJEFrth27Q
+- incubus
+  - wish http://youtu.be/fVW8AQQOFYE
+http://youtu.be/8295rOMvtQI
+  - bye http://youtu.be/Qf_7mEPMIAc
+  - in http://youtu.be/M90tA302X3k
+- feist
+  - http://youtu.be/l-iAS18rv68
+  - 1234 http://youtu.be/ABYnqp-bxvg
+  - inside out http://youtu.be/-D-sdWbwZJg
+- tuneyards
+  - gangsta http://youtu.be/EbkMPHW67xM
+  - bizness http://youtu.be/YQ1LI-NTa2s
+- harper
+  - burn http://youtu.be/5w0K0Ve0ZvM
+  - lonely http://youtu.be/zr5mCBFejIE
+- deftones
+  - mx http://youtu.be/Up0dOgoWMtw
+  - summer http://youtu.be/XOzs1FehYOA
+  - shove http://youtu.be/fLqsfwRvYtU
+  - dai http://youtu.be/tarOubMb4Y4
+- adele
+  - like you http://youtu.be/hLQl3WQQoQ0
+  - better  
+  - turning http://youtu.be/dx7sLNyIeQk
+- pink
+  - party
+- elliot smith
+  - 
+  - 
+- amy
+  - stronger http://bit.ly/1ery6T5
+  - looked like you
+  - fuckery
+  - valerie http://youtu.be/lqSKVv6YO8g
+  - pumps http://youtu.be/iVaqQe3V498
+- muse
+  - madness http://youtu.be/uwGhkytO2II
+  - 
