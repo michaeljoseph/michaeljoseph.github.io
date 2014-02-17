@@ -4,7 +4,7 @@ var github = {
     this._getData();
   },
   _getData: function() {
-    $.getJSON("https://api.github.com/users/"+this.options.user+"/repos?callback=?", $.proxy(this._getDataCallback, this));
+    $.getJSON("https://api.github.com/users/"+this.options.user+"/repos?sort=updated&callback=?", $.proxy(this._getDataCallback, this));
   },
   _getDataCallback: function(data) {
     var repos = [];
