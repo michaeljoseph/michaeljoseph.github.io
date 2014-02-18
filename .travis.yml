@@ -14,3 +14,4 @@ branches:
     env:
       global:
         - GH_REPO="michaeljoseph/michaeljoseph.github.com"
+        - secure: "dbXQTLHIIXmxl1h4XtctDf5Oa6RejRxUIeKoEDOafd+sOdZKDqryiTS4vXfi3Y7C24t02SCat9iDauk4hSW4qhnP/4rXkK3e6M15XOhBrpYwPFgwi+hLuVDRmGx7jM+KWK3dBqzuMk1R/QoYgYRAQoRBFbZxXa2fVlD+oouuHow="
