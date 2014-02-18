@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: robots | Ramblings Of An Sentience Going Insanely Awesome]]></title>
+  <link href="http://michaeljoseph.github.io/blog/categories/robots/atom.xml" rel="self"/>
+  <link href="http://michaeljoseph.github.io/"/>
+  <updated>2014-02-18T09:20:21+02:00</updated>
+  <id>http://michaeljoseph.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Joseph]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[mindstorms cns]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/01/30/mindstorms/"/>
+    <updated>2014-01-30T09:18:37+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/01/30/mindstorms</id>
+    <content type="html"><![CDATA[<p>I have the central nervous system of a mindstorms robot
+plugged into my computer.
+strong AI to follow.
+<img src="resources/mindstorms.png" alt="mindstorms-cns" /></p>
+]]></content>
+  </entry>
+  
+</feed>

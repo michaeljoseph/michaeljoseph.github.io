@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: adventure_time | Ramblings Of An Sentience Going Insanely Awesome]]></title>
+  <link href="http://michaeljoseph.github.io/blog/categories/adventure-time/atom.xml" rel="self"/>
+  <link href="http://michaeljoseph.github.io/"/>
+  <updated>2014-02-18T09:20:21+02:00</updated>
+  <id>http://michaeljoseph.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Joseph]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bjork In Adventure Time]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/17/finn/"/>
+    <updated>2014-02-17T00:00:00+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/17/finn</id>
+    <content type="html"><![CDATA[<p><blockquote><p>Dude, what the Bjork?!</p><footer><strong>Finn The Human</strong></footer></blockquote></p>
+
+<p><blockquote><p>I&rsquo;m gonna embarrass the Bjork out of you!</p><footer><strong>Jake The Dog</strong></footer></blockquote></p>
+]]></content>
+  </entry>
+  
+</feed>

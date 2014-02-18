@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: kids | Ramblings Of An Sentience Going Insanely Awesome]]></title>
+  <link href="http://michaeljoseph.github.io/blog/categories/kids/atom.xml" rel="self"/>
+  <link href="http://michaeljoseph.github.io/"/>
+  <updated>2014-02-18T09:20:21+02:00</updated>
+  <id>http://michaeljoseph.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Joseph]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Teaching Milan To Program]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/10/teaching-milan-to-program/"/>
+    <updated>2014-02-10T10:03:32+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/10/teaching-milan-to-program</id>
+    <content type="html"><![CDATA[<h2>core concepts</h2>
+
+<ul>
+<li>variables</li>
+<li>logic</li>
+<li>conditionals</li>
+<li>loops</li>
+</ul>
+
+
+<h2>setup</h2>
+
+<ul>
+<li>program in a browser (<a href="https://www.codebox.io">https://www.codebox.io</a>)</li>
+<li>terminal</li>
+<li>directory</li>
+<li>editor (sublime text)</li>
+</ul>
+
+
+<h2>python</h2>
+
+<h3>turtle graphics</h3>
+
+<ul>
+<li>via <a href="http://stackoverflow.com/a/587826/5549">http://stackoverflow.com/a/587826/5549</a></li>
+<li>mess around / experiment</li>
+<li>loops</li>
+<li>conditionals</li>
+</ul>
+
+
+<h2>pygame and browser programming</h2>
+
+<ul>
+<li><a href="http://inventwithpython.com/chapters/">http://inventwithpython.com/chapters/</a></li>
+<li><a href="http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb">http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb</a></li>
+<li><a href="http://pythontutor.com/">http://pythontutor.com/</a></li>
+</ul>
+
+
+<h2>Javascript</h2>
+
+<ul>
+<li>camera API; motion interface; kinect / wii game</li>
+<li>js programming setup; online ide</li>
+<li>sprites that can move</li>
+<li>communication / chat</li>
+<li>backgrounds / environment</li>
+</ul>
+
+
+<h2>Milan&rsquo;s Game Idea</h2>
+
+<h3>Name: TODO</h3>
+
+<h3>Description</h3>
+
+<p>Set in Cartoon Network and Disney Land: all the villains from all the TV shows have escaped
+into other shows (kind of like Wreck It Ralph, but with Cartoon Network and Disney characters)</p>
+
+<h3>Game Play</h3>
+
+<p>Travel through time and stop the villains from invading the whole world.
+Once they&rsquo;ve conquered the TV world, they will have access to the real world.
+The only way to stop them is to team up with (all) the characters from different
+shows.</p>
+
+<p>Control your character with the arrow keys or the mouse.
+Talk to other players (voice and text)
+Form teams with other players</p>
+
+<p>Suit up: store that you can buy upgrades and items from [$$$$$]
+&ndash; weapons
+&ndash; armor
+&ndash; special items</p>
+
+<p>Find clues and codes to travel to different worlds</p>
+
+<h3>Characters</h3>
+
+<h4>Heroes</h4>
+
+<ul>
+<li>Finn The Human</li>
+<li>Jake The Dog</li>
+</ul>
+
+
+<h4>Villains</h4>
+
+<ul>
+<li>The Lich</li>
+<li>Vilgax</li>
+<li>Clu</li>
+</ul>
+
+
+<h1>TODO</h1>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ramblings Of An Sentience Going Insanely Awesome]]></title>
+  <link href="http://michaeljoseph.github.io/atom.xml" rel="self"/>
+  <link href="http://michaeljoseph.github.io/"/>
+  <updated>2014-02-18T09:20:21+02:00</updated>
+  <id>http://michaeljoseph.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Joseph]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bjork In Adventure Time]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/17/finn/"/>
+    <updated>2014-02-17T00:00:00+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/17/finn</id>
+    <content type="html"><![CDATA[<blockquote><p>Dude, what the Bjork?!</p><footer><strong>Finn The Human</strong></footer></blockquote>
+
+
+
+
+<blockquote><p>I&#8217;m gonna embarrass the Bjork out of you!</p><footer><strong>Jake The Dog</strong></footer></blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Teaching Milan To Program]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/10/teaching-milan-to-program/"/>
+    <updated>2014-02-10T10:03:32+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/10/teaching-milan-to-program</id>
+    <content type="html"><![CDATA[<h2>core concepts</h2>
+
+<ul>
+<li>variables</li>
+<li>logic</li>
+<li>conditionals</li>
+<li>loops</li>
+</ul>
+
+
+<h2>setup</h2>
+
+<ul>
+<li>program in a browser (<a href="https://www.codebox.io">https://www.codebox.io</a>)</li>
+<li>terminal</li>
+<li>directory</li>
+<li>editor (sublime text)</li>
+</ul>
+
+
+<h2>python</h2>
+
+<h3>turtle graphics</h3>
+
+<ul>
+<li>via <a href="http://stackoverflow.com/a/587826/5549">http://stackoverflow.com/a/587826/5549</a></li>
+<li>mess around / experiment</li>
+<li>loops</li>
+<li>conditionals</li>
+</ul>
+
+
+<h2>pygame and browser programming</h2>
+
+<ul>
+<li><a href="http://inventwithpython.com/chapters/">http://inventwithpython.com/chapters/</a></li>
+<li><a href="http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb">http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb</a></li>
+<li><a href="http://pythontutor.com/">http://pythontutor.com/</a></li>
+</ul>
+
+
+<h2>Javascript</h2>
+
+<ul>
+<li>camera API; motion interface; kinect / wii game</li>
+<li>js programming setup; online ide</li>
+<li>sprites that can move</li>
+<li>communication / chat</li>
+<li>backgrounds / environment</li>
+</ul>
+
+
+<h2>Milan&rsquo;s Game Idea</h2>
+
+<h3>Name: TODO</h3>
+
+<h3>Description</h3>
+
+<p>Set in Cartoon Network and Disney Land: all the villains from all the TV shows have escaped
+into other shows (kind of like Wreck It Ralph, but with Cartoon Network and Disney characters)</p>
+
+<h3>Game Play</h3>
+
+<p>Travel through time and stop the villains from invading the whole world.
+Once they&rsquo;ve conquered the TV world, they will have access to the real world.
+The only way to stop them is to team up with (all) the characters from different
+shows.</p>
+
+<p>Control your character with the arrow keys or the mouse.
+Talk to other players (voice and text)
+Form teams with other players</p>
+
+<p>Suit up: store that you can buy upgrades and items from [$$$$$]
+&ndash; weapons
+&ndash; armor
+&ndash; special items</p>
+
+<p>Find clues and codes to travel to different worlds</p>
+
+<h3>Characters</h3>
+
+<h4>Heroes</h4>
+
+<ul>
+<li>Finn The Human</li>
+<li>Jake The Dog</li>
+</ul>
+
+
+<h4>Villains</h4>
+
+<ul>
+<li>The Lich</li>
+<li>Vilgax</li>
+<li>Clu</li>
+</ul>
+
+
+<h1>TODO</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ussd]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/07/ussd/"/>
+    <updated>2014-02-07T16:48:42+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/07/ussd</id>
+    <content type="html"><![CDATA[<p>The deeper I get into a USSD tree the more i worry
+about either computer, network or human malfunctions.
+Which means I have to start from the beginning.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[mcdonalds]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/07/mcdonalds/"/>
+    <updated>2014-02-07T15:18:37+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/07/mcdonalds</id>
+    <content type="html"><![CDATA[<p>there is something in a mcd cheeseburger, that is in neither of the 4 food groups.
+Something neither animal or mineral.
+Fairy dust probably.
+Or an ancient galactic artifact.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[thinking funny]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/06/talking-funny/"/>
+    <updated>2014-02-06T23:48:37+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/06/talking-funny</id>
+    <content type="html"><![CDATA[<p>&ldquo;Thinking about our acts? That&rsquo;s what we do, is take a subject and just
+don&rsquo;t leave it along until there&rsquo;s nothing left of it&rdquo;
+&ndash; Louis CK, Talking Funny</p>
+
+<p>&ldquo;I think of a joke as the minimum amount of moves to get to a punchline&rdquo;
+&ndash; Ricky Gervais, Talking Funny</p>
+
+<p><a href="http://www.youtube.com/watch?v=OKY6BGcx37k">http://www.youtube.com/watch?v=OKY6BGcx37k</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[aldous]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/06/aldous/"/>
+    <updated>2014-02-06T22:48:37+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/06/aldous</id>
+    <content type="html"><![CDATA[<h1>poetic reply</h1>
+
+<p>aldous huxley was a dick
+his mother called him richard</p>
+
+<p>he wrote a book
+i thought it good
+brave new world was right?</p>
+
+<p>so, darling dear
+i sadly fear
+your meaning isn&rsquo;t clear</p>
+
+<p>he seems alright?
+i mean: brave new world</p>
+
+<h1>limerick</h1>
+
+<p>aldous huxley was a dick
+his mother called him richard
+and when he wasn&rsquo;t taking drugs
+he wrote a lot about them</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[politeness]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/03/politeness/"/>
+    <updated>2014-02-03T10:48:37+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/03/politeness</id>
+    <content type="html"><![CDATA[<h1>Politeness</h1>
+
+<p>Always thank your infobots when they do a good job.
+And end your messages to anyone with: &ldquo;Love, Michael&rdquo;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Her Soundtrack]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/02/off-you/"/>
+    <updated>2014-02-02T00:00:00+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/02/off-you</id>
+    <content type="html"><![CDATA[<h1>The Moon Song</h1>
+
+<p><img src="http://upload.wikimedia.org/wikipedia/commons/7/73/Yeah_Yeah_Yeahs.jpg" alt="yyy" /></p>
+
+<blockquote><p>I&#8217;m lying on the moon<br/>My dear, I&#8217;ll be there soon<br/>It&#8217;s a quiet starry place<br/>Time&#8217;s we&#8217;re swallowed up<br/>In space we&#8217;re here a million miles away</p><footer><strong>The Moon Song: Karen O</strong></footer></blockquote>
+
+
+<p><a href="http://rock.rapgenius.com/Karen-o-the-moon-song-lyrics">lyrics</a></p>
+
+<br/>
+
+
+<h1>Off You</h1>
+
+<p><img src="http://www.efeeme.com/wp-content/uploads/kim-deal-18-06-13.jpg" alt="kim-deal" /></p>
+
+<blockquote><p>I&#8217;ve laid this island sun a thousand times<br/>I&#8217;m on it but I&#8217;m going strange</p><p>This island&#8217;s sun I&#8217;ve laid a thousand times<br/>Fortune me, fortune me, of all of my mistakes<br/>I think I lent you late, now every sick person<br/>Seemed to come my way</p><p>But I&#8217;ve never seen the scarlet<br/>Or a riot or the violence of you<br/>I am the autumn in the scarlet<br/>I am the make-up on your eyes</p><footer><strong>Off You: The Breeders</strong></footer></blockquote>
+
+
+<p><a href="http://rock.rapgenius.com/The-breeders-off-you-song-lyrics">lyrics</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[parow]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/01/30/rambling/"/>
+    <updated>2014-01-30T15:18:37+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/01/30/rambling</id>
+    <content type="html"><![CDATA[<blockquote><p>sexy perfeksie
+sys my liewe heksie
+koeler as julle koekemoers</p></blockquote>
+
+<p>Warming up for Parow by spitting rhymes and reaching for the sky.</p>
+
+<p>www.youtube.com/watch?v=xILoKSumFtU
+<a href="http://rapgenius.com/Deadmau5-failbait-lyrics">http://rapgenius.com/Deadmau5-failbait-lyrics</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[mindstorms cns]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/01/30/mindstorms/"/>
+    <updated>2014-01-30T09:18:37+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/01/30/mindstorms</id>
+    <content type="html"><![CDATA[<p>I have the central nervous system of a mindstorms robot
+plugged into my computer.
+strong AI to follow.
+<img src="resources/mindstorms.png" alt="mindstorms-cns" /></p>
+]]></content>
+  </entry>
+  
+</feed>
