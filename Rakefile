@@ -8,6 +8,7 @@ public_dir      = "public"    # compiled site directory
 source_dir      = "source"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
+deploy_default  = "gh_deploy"
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
 themes_dir      = ".themes"   # directory for blog files
@@ -224,6 +225,16 @@ task :copydot, :source, :dest do |t, args|
   FileList["#{args.source}/**/.*"].exclude("**/.", "**/..", "**/.DS_Store", "**/._*").each do |file|
     cp_r file, file.gsub(/#{args.source}/, "#{args.dest}") unless File.directory?(file)
   end
+end
+
+desc "gh.io deploy"
+task :gh_deploy do
+  puts "## Deploying to Github Pages "
+  system "workon michaeljoseph.github.io"
+  system "ghp-import -m \"Deploy\" -b master public"
+  system "git checkout master"
+  system "git push"
+  system "git checkout source"
 end
 
 desc "Deploy website via rsync"
