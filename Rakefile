@@ -2,13 +2,15 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 
-## -- Misc Configs -- ##
+# michaeljoseph.github.io
+deploy_branch   = "master"
+deploy_default  = "push"
 
+## -- Misc Configs -- ##
 public_dir      = "public"    # compiled site directory
 source_dir      = "source"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
-deploy_default  = "gh_deploy"
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
 themes_dir      = ".themes"   # directory for blog files
