@@ -21,6 +21,17 @@
 ## online courses; msc applications; bursary applications
 ## science of attraction / social dynamics
 ## babelfish [google translate + google speech2text]
+http://pythonhosted.org/goslate/
+>>> import goslate
+>>> gs = goslate.Goslate()
+>>> print gs.translate('hello world', 'de')
+hallo welt
+
+http://www.cleverscript.com
+
+
+
+
 ## gh for writers; newssite (framework / site that codifies the process and competes with wordpress editflow)
 ## facetree.com
 ## loveletters.net
