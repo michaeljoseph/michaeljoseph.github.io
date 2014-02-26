@@ -4,7 +4,7 @@
   <title><![CDATA[Category: kids | Ramblings Of An Sentience Going Insanely Awesome]]></title>
   <link href="http://michaeljoseph.github.io/blog/categories/kids/atom.xml" rel="self"/>
   <link href="http://michaeljoseph.github.io/"/>
-  <updated>2014-02-18T11:34:41+02:00</updated>
+  <updated>2014-02-26T18:13:59+02:00</updated>
   <id>http://michaeljoseph.github.io/</id>
   <author>
     <name><![CDATA[Michael Joseph]]></name>
@@ -20,13 +20,25 @@
     <id>http://michaeljoseph.github.io/blog/2014/02/10/teaching-milan-to-program</id>
     <content type="html"><![CDATA[<h2>core concepts</h2>
 
+<h3>variables</h3>
+
 <ul>
-<li>variables</li>
-<li>logic</li>
-<li>conditionals</li>
-<li>loops</li>
+<li>a variable is like a cardboard box. you can put <a href="#data-types">things</a> into it
+and then use the variable like it was the thing inside it
+algebra: x
+
+<h3>data-types</h3></li>
+<li>string = &ldquo;a sequence of characters enclosed in quotes&rdquo;</li>
+<li>int = 4 # An <a href="http://en.wikipedia.org/wiki/Integer">integer</a>
+<blockquote><p>An integer is a number that can be written without a fractional or decimal component.<br/>For example, 21, 4, and −2048 are integers; 9.75, 5½, and √2 are not integers.</p></blockquote></li>
 </ul>
 
+
+<h3>logic</h3>
+
+<h3>conditionals</h3>
+
+<h3>loops</h3>
 
 <h2>setup</h2>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings Of An Sentience Going Insanely Awesome]]></title>
   <link href="http://michaeljoseph.github.io/atom.xml" rel="self"/>
   <link href="http://michaeljoseph.github.io/"/>
-  <updated>2014-02-18T11:34:41+02:00</updated>
+  <updated>2014-02-26T18:13:59+02:00</updated>
   <id>http://michaeljoseph.github.io/</id>
   <author>
     <name><![CDATA[Michael Joseph]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Old Men]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/25/old-men/"/>
+    <updated>2014-02-25T00:00:00+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/25/old-men</id>
+    <content type="html"><![CDATA[<p>When you swerve past an old man walking with his stick, and pause to
+contemplate what kind of old man you want to be.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bjork In Adventure Time]]></title>
@@ -35,13 +45,27 @@
     <id>http://michaeljoseph.github.io/blog/2014/02/10/teaching-milan-to-program</id>
     <content type="html"><![CDATA[<h2>core concepts</h2>
 
+<h3>variables</h3>
+
 <ul>
-<li>variables</li>
-<li>logic</li>
-<li>conditionals</li>
-<li>loops</li>
+<li>a variable is like a cardboard box. you can put <a href="#data-types">things</a> into it
+and then use the variable like it was the thing inside it
+algebra: x
+
+<h3>data-types</h3></li>
+<li>string = &ldquo;a sequence of characters enclosed in quotes&rdquo;</li>
+<li>int = 4 # An <a href="http://en.wikipedia.org/wiki/Integer">integer</a></li>
 </ul>
 
+
+<blockquote><p>An integer is a number that can be written without a fractional or decimal component.<br/>For example, 21, 4, and −2048 are integers; 9.75, 5½, and √2 are not integers.</p></blockquote>
+
+
+<h3>logic</h3>
+
+<h3>conditionals</h3>
+
+<h3>loops</h3>
 
 <h2>setup</h2>
 
@@ -136,7 +160,7 @@ Form teams with other players</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[ussd]]></title>
+    <title type="html"><![CDATA[USSD]]></title>
     <link href="http://michaeljoseph.github.io/blog/2014/02/07/ussd/"/>
     <updated>2014-02-07T16:48:42+02:00</updated>
     <id>http://michaeljoseph.github.io/blog/2014/02/07/ussd</id>
