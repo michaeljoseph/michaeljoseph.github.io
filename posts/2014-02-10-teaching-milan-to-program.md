@@ -7,10 +7,22 @@ categories: programming kids geekdad
 ---
 
 ## core concepts
-- variables
-- logic
-- conditionals
-- loops
+### variables
+- a variable is like a cardboard box. you can put [things](#data-types) into it
+  and then use the variable like it was the thing inside it
+  algebra: x
+### data-types
+- string = "a sequence of characters enclosed in quotes"
+- int = 4 # An [integer](http://en.wikipedia.org/wiki/Integer)
+{% blockquote %}
+An integer is a number that can be written without a fractional or decimal component.
+For example, 21, 4, and −2048 are integers; 9.75, 5½, and √2 are not integers.
+{% endblockquote %}
+
+### logic
+### conditionals
+### loops
+
 
 ## setup
 - program in a browser (https://www.codebox.io)
