@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: exercise | Ramblings Of An Sentience Going Insanely Awesome]]></title>
+  <link href="http://michaeljoseph.github.io/blog/categories/exercise/atom.xml" rel="self"/>
+  <link href="http://michaeljoseph.github.io/"/>
+  <updated>2014-03-02T08:22:43+02:00</updated>
+  <id>http://michaeljoseph.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Joseph]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Old Men]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/02/25/old-men/"/>
+    <updated>2014-02-25T11:47:19+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/02/25/old-men</id>
+    <content type="html"><![CDATA[<p>When you swerve past an old man walking with his stick, and pause to
+contemplate what kind of old man you want to be.</p>
+]]></content>
+  </entry>
+  
+</feed>
