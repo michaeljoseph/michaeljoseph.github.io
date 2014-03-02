@@ -30,8 +30,6 @@ hallo welt
 http://www.cleverscript.com
 
 
-
-
 ## gh for writers; newssite (framework / site that codifies the process and competes with wordpress editflow)
 ## facetree.com
 ## loveletters.net
@@ -47,3 +45,13 @@ http://www.cleverscript.com
 # babyai
 # emoji-img / avdb / video soundboards
 # post + vid + audio: how to podcast in a day
+
+## pssht: mashup of beat of breed ssh / scripting [f]
+
+## js single page app: creates a markdown gist; url with sha
+   - downloads and mkdocs renders with switchable theme
+   - hackers can download and customise their own look
+   - each page / post is a "site"; stands alone
+
+
+## create a facebook event; gcal invite from a md file with event metadata; publish page to gists
