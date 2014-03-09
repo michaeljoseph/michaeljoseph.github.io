@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: movies | Ramblings Of A Sentience Going Insanely Awesome]]></title>
+  <link href="http://michaeljoseph.github.io/blog/categories/movies/atom.xml" rel="self"/>
+  <link href="http://michaeljoseph.github.io/"/>
+  <updated>2014-03-09T09:49:31+02:00</updated>
+  <id>http://michaeljoseph.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Joseph]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Badassdom]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/03/09/badassdom/"/>
+    <updated>2014-03-09T08:45:03+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/03/09/badassdom</id>
+    <content type="html"><![CDATA[<p>Dinklage, Zahn, Glau, Pudi and some white guy.
+Pre-prepared to enjoy the ride.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DBC]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/03/03/dbc/"/>
+    <updated>2014-03-03T19:53:08+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/03/03/dbc</id>
+    <content type="html"><![CDATA[<h1>Dallas Buyers Club</h1>
+
+<p>I was appreciative of the special effects that made Jennifer Garner look like a normal chick.</p>
+]]></content>
+  </entry>
+  
+</feed>

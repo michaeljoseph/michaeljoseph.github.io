@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ramblings Of An Sentience Going Insanely Awesome]]></title>
+  <title><![CDATA[Ramblings Of A Sentience Going Insanely Awesome]]></title>
   <link href="http://michaeljoseph.github.io/atom.xml" rel="self"/>
   <link href="http://michaeljoseph.github.io/"/>
-  <updated>2014-03-02T08:45:22+02:00</updated>
+  <updated>2014-03-09T09:49:31+02:00</updated>
   <id>http://michaeljoseph.github.io/</id>
   <author>
     <name><![CDATA[Michael Joseph]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Badassdom]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/03/09/badassdom/"/>
+    <updated>2014-03-09T08:45:03+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/03/09/badassdom</id>
+    <content type="html"><![CDATA[<p>Dinklage, Zahn, Glau, Pudi and some white guy.
+Pre-prepared to enjoy the ride.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Password Security]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/03/06/password-security/"/>
+    <updated>2014-03-06T13:48:03+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/03/06/password-security</id>
+    <content type="html"><![CDATA[<p>Choose the first lyric of a favourite song per website as your password.
+With punctuation.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Robot Output]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/03/06/robot-output/"/>
+    <updated>2014-03-06T10:47:26+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/03/06/robot-output</id>
+    <content type="html"><![CDATA[<p>The feeling of watching your robots acting on your behalf, while you monitor
+their progress.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DBC]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/03/03/dbc/"/>
+    <updated>2014-03-03T19:53:08+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/03/03/dbc</id>
+    <content type="html"><![CDATA[<h1>Dallas Buyers Club</h1>
+
+<p>I was appreciative of the special effects that made Jennifer Garner look like a normal chick.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Friendship]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/03/03/friendship/"/>
+    <updated>2014-03-03T15:47:03+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/03/03/friendship</id>
+    <content type="html"><![CDATA[<p>Every friendship you form (beyond family and formative ones) is based
+on an unspoken equation of relative utility.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Old Men]]></title>
