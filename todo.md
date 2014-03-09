@@ -55,3 +55,20 @@ http://www.cleverscript.com
 
 
 ## create a facebook event; gcal invite from a md file with event metadata; publish page to gists
+
+## actorstats.org
+- nicholas kim coppola (aka nicholas cage): 79 movies over 33 years; one a year since 1980 (except 1985 and 1991)
+- scrape wikipedia for: dob; # of films; generate interesting stats from data...
+
+
+## single page publishing
+convert a md to html; apply a style; publish to a gist?
+>> gists.io
+
+>> alias to gists new FILE; open http://gists.io/<id>
+
+## bushman's chess
+- turn based [tourniquet]
+- cli
+- js app
+
