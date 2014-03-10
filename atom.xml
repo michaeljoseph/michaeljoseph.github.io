@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings Of A Sentience Going Insanely Awesome]]></title>
   <link href="http://michaeljoseph.github.io/atom.xml" rel="self"/>
   <link href="http://michaeljoseph.github.io/"/>
-  <updated>2014-03-10T11:26:58+02:00</updated>
+  <updated>2014-03-10T12:21:05+02:00</updated>
   <id>http://michaeljoseph.github.io/</id>
   <author>
     <name><![CDATA[Michael Joseph]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Abstraction]]></title>
+    <link href="http://michaeljoseph.github.io/blog/2014/03/10/abstraction/"/>
+    <updated>2014-03-10T12:09:25+02:00</updated>
+    <id>http://michaeljoseph.github.io/blog/2014/03/10/abstraction</id>
+    <content type="html"><![CDATA[<p>Abstraction aeronauts can survive in space because
+they don&rsquo;t need oxygen to live.
+Just <em>obnoxygen</em>.</p>
+
+<p><em>Obviously</em>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dark Knight]]></title>
@@ -171,7 +184,7 @@ algebra: x
 
 <ul>
 <li><a href="http://inventwithpython.com/chapters/">http://inventwithpython.com/chapters/</a></li>
-<li><a href="http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb">http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb</a></li>
+<li><a href="http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb">ipython notebook</a></li>
 <li><a href="http://pythontutor.com/">http://pythontutor.com/</a></li>
 </ul>
 
