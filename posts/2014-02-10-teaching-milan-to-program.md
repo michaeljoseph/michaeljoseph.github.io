@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: page
 title: "Teaching Milan To Program"
 date: 2014-02-10 10:03:32 +0200
 comments: true
 categories: programming kids geekdad
+published: false
 ---
 
 ## core concepts
