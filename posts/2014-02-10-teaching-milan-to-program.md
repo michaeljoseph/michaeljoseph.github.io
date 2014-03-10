@@ -3,7 +3,6 @@ layout: page
 title: "Teaching Milan To Program"
 date: 2014-02-10 10:03:32 +0200
 comments: true
-categories: programming kids geekdad
 published: false
 ---
 
@@ -40,7 +39,7 @@ For example, 21, 4, and −2048 are integers; 9.75, 5½, and √2 are not intege
 
 ## pygame and browser programming
 - http://inventwithpython.com/chapters/
-- http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb
+- [ipython notebook]
 - http://pythontutor.com/
 
 ## Javascript
@@ -92,3 +91,4 @@ Find clues and codes to travel to different worlds
 
 # TODO
 
+[ipython notebook]:http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb
