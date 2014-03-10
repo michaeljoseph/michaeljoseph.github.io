@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lyrics | Ramblings Of A Sentience Going Insanely Awesome]]></title>
   <link href="http://michaeljoseph.github.io/blog/categories/lyrics/atom.xml" rel="self"/>
   <link href="http://michaeljoseph.github.io/"/>
-  <updated>2014-03-10T10:59:16+02:00</updated>
+  <updated>2014-03-10T11:29:38+02:00</updated>
   <id>http://michaeljoseph.github.io/</id>
   <author>
     <name><![CDATA[Michael Joseph]]></name>
@@ -22,7 +22,13 @@
 
 <p><img src="http://upload.wikimedia.org/wikipedia/commons/7/73/Yeah_Yeah_Yeahs.jpg" alt="yyy" /></p>
 
-<p><blockquote><p>I&rsquo;m lying on the moon<br/>My dear, I&rsquo;ll be there soon<br/>It&rsquo;s a quiet starry place<br/>Time&rsquo;s we&rsquo;re swallowed up<br/>In space we&rsquo;re here a million miles away</p><footer><strong>The Moon Song: Karen O</strong></footer></blockquote></p>
+<p>{% blockquote The Moon Song: Karen O %}
+I&rsquo;m lying on the moon
+My dear, I&rsquo;ll be there soon
+It&rsquo;s a quiet starry place
+Time&rsquo;s we&rsquo;re swallowed up
+In space we&rsquo;re here a million miles away
+{% endblockquote %}</p>
 
 <p><a href="http://rock.rapgenius.com/Karen-o-the-moon-song-lyrics">lyrics</a></p>
 
@@ -33,7 +39,20 @@
 
 <p><img src="http://www.efeeme.com/wp-content/uploads/kim-deal-18-06-13.jpg" alt="kim-deal" /></p>
 
-<p><blockquote><p>I&rsquo;ve laid this island sun a thousand times<br/>I&rsquo;m on it but I&rsquo;m going strange</p></p><p><p>This island&rsquo;s sun I&rsquo;ve laid a thousand times<br/>Fortune me, fortune me, of all of my mistakes<br/>I think I lent you late, now every sick person<br/>Seemed to come my way</p></p><p><p>But I&rsquo;ve never seen the scarlet<br/>Or a riot or the violence of you<br/>I am the autumn in the scarlet<br/>I am the make-up on your eyes</p><footer><strong>Off You: The Breeders</strong></footer></blockquote></p>
+<p>{% blockquote Off You: The Breeders %}
+I&rsquo;ve laid this island sun a thousand times
+I&rsquo;m on it but I&rsquo;m going strange</p>
+
+<p>This island&rsquo;s sun I&rsquo;ve laid a thousand times
+Fortune me, fortune me, of all of my mistakes
+I think I lent you late, now every sick person
+Seemed to come my way</p>
+
+<p>But I&rsquo;ve never seen the scarlet
+Or a riot or the violence of you
+I am the autumn in the scarlet
+I am the make-up on your eyes
+{% endblockquote %}</p>
 
 <p><a href="http://rock.rapgenius.com/The-breeders-off-you-song-lyrics">lyrics</a></p>
 ]]></content>
