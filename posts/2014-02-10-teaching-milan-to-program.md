@@ -3,7 +3,6 @@ layout: page
 title: "Teaching Milan To Program"
 date: 2014-02-10 10:03:32 +0200
 comments: true
-published: false
 ---
 
 ## core concepts
