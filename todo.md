@@ -72,3 +72,23 @@ convert a md to html; apply a style; publish to a gist?
 - cli
 - js app
 
+## 
+
+## posts
+- [ ] twinpeaks: cooper, black coffee quote, image
+- [ ] twin peaks: humour, waiting for the lynch effect to kick in
+- [ ] women of twin peaks:
+- [ ] mike and bob, the movie scans like a poe, and / or surrealist / abstract oil on canvas
+      the backwards speaking midget and laura thomas doppelganger cousin
+- [ ] upscale into a long form review
+
+- [ ] tv series list: firefly, arrested, the wire, twin peaks, x-files (duchovny), 
+  father ted, blackadder, community, sherlock, workaholics
+- [ ] 
+
+- 2048 solver
+
+- milan programming lessons; update post
+
+- hook cleverbot up to a ntlk chatbot
+  - fork and fix it to use requests instead of urllib
