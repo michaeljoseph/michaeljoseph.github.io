@@ -11,7 +11,7 @@ BLOG_AUTHOR = "Michael Joseph"
 BLOG_TITLE = "Rambling Mumbing Man"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://michaeljoseph.github.io"
+SITE_URL = "http://michaeljoseph.github.io/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
