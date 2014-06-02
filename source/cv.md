@@ -60,27 +60,26 @@ about the work we did at [Yola](https://www.yola.com) during my time there.
 ### Future
 
 - Communication Bridge between misunderstanding teams / groups
-  e.g. engineering and marketing / product / programme management
-  #suitsvsnerds
+  e.g. engineering and marketing / product / programme management (#suitsvsnerds)
 - Developer Evangelist
 - Chief Cognitive Scientist
 
 ## Work Experience
 
 ### Services Team Lead @ Yola.com
-#### February 2011 – May 2014 (3 years 4 months)
+#### February 2011 - May 2014 (3 years 4 months)
 
 Senior role with slightly more focus on architecture discussions and code reviews.
 I also wrote Java and PHP when required.
 
 ### Systems Engineer @ Yola.com
-#### February 2010 – January 2012 (2 years)
+#### February 2010 - January 2012 (2 years)
 
 Built out the Python Services API layer as part of the distributed architecture
 roadmap.
 
 ### Senior Software Developer / Software Engineer @ Sadalbari Open Software
-#### November 2008 – January 2010 (1 year 3 months)
+#### November 2008 - January 2010 (1 year 3 months)
 
 Java consultant to large financial and insurance businesses based in Johannesburg.
 I reviewed and recommended changes to their JVM configuration to meet the
@@ -95,19 +94,19 @@ Additional Roles:
 - Work Breakdown, Allocation and Management
 
 ### Senior Software Developer @ AdaptIT
-#### December 2007 – April 2008 (5 months)
+#### December 2007 - April 2008 (5 months)
 
 Technical Lead of the Open Source Business Unit software development team.
 building and maintaining the intranet and internet sites for the eThekwini
 Municipality (GNU/Linux/Python/Zope/Plone).
 
 ### Founder @ Elucidate Consulting
-#### June 2007 – November 2007 (6 months)
+#### June 2007 - November 2007 (6 months)
 
 Freelance software development consultancy
 
 ### Senior Software Developer @ Jam Warehouse
-#### December 2002 – May 2007 (4 years 6 months)
+#### December 2002 - May 2007 (4 years 6 months)
 
 Software development team lead on the PHP, C# and Python development projects.
 
