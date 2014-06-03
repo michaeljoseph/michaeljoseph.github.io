@@ -72,11 +72,15 @@ about the work we did at [Yola](https://www.yola.com) during my time there.
 Senior role with slightly more focus on architecture discussions and code reviews.
 I also wrote Java and PHP when required.
 
+`#python #api #django #php #java`
+
 ### Systems Engineer @ Yola.com
 #### February 2010 - January 2012 (2 years)
 
 Built out the Python Services API layer as part of the distributed architecture
 roadmap.
+
+`#python #api #piston #django`
 
 ### Senior Software Developer / Software Engineer @ Sadalbari Open Software
 #### November 2008 - January 2010 (1 year 3 months)
@@ -84,6 +88,8 @@ roadmap.
 Java consultant to large financial and insurance businesses based in Johannesburg.
 I reviewed and recommended changes to their JVM configuration to meet the
 scaling needs of their internal applications.
+
+`#java #meeting #documenting #consulting #finco #sureco #jozi`
 
 ### Open Source Business Unit Manager @ AdaptIT
 #### April 2008 - November 2008 (8 months)
@@ -93,6 +99,8 @@ Additional Roles:
 - Application Design and Documentation
 - Work Breakdown, Allocation and Management
 
+`#management`
+
 ### Senior Software Developer @ AdaptIT
 #### December 2007 - April 2008 (5 months)
 
@@ -100,10 +108,14 @@ Technical Lead of the Open Source Business Unit software development team.
 building and maintaining the intranet and internet sites for the eThekwini
 Municipality (GNU/Linux/Python/Zope/Plone).
 
+`#python #plone #cms #zope #zodb #rhel #integration #legacy #localgovernment`
+
 ### Founder @ Elucidate Consulting
 #### June 2007 - November 2007 (6 months)
 
 Freelance software development consultancy
+
+`#php`
 
 ### Senior Software Developer @ Jam Warehouse
 #### December 2002 - May 2007 (4 years 6 months)
@@ -116,13 +128,16 @@ Software development team lead on the PHP, C# and Python development projects.
 Software Development Lead responsible for the design and management of KnowledgeTree,
 an open source document management system.
 I was the release manager for the initial SourceForge releases.
-#php
+
+`#php #mysql #freebsd #debian`
 
 - BrandDirector (http://www.branddirector.co.uk) implementation for Woolworths
-#c# #dotnet
+
+`#c# #dotnet #asp.net #iis`
 
 - eThekwini Municipality Internet and Intranet Portals
-#python #plone #cms #integration #legacy #localgovernment
+
+`#python #plone #cms #zope #zodb #rhel #integration #legacy #localgovernment`
 
 ### Senior Developer @ iTouch Labs
 #### 2002 – 2002 (less than a year)
@@ -135,9 +150,9 @@ and operating system level management services.
 #### Projects
 
 - FTP Interface for the Corporate Messaging Server
-#java #ftp
+`#java #ftp``
 - iTouch SA CMS WebSMS Deployment
-#deployment #documentation #idempotency #installation #configuration #testing
+`#deployment #documentation #idempotency #installation #configuration #testing`
 
 ### Software Developer @ iTouch Ireland
 #### 2000 – 2001 (1 year)
@@ -146,7 +161,7 @@ As a senior member of the development team, I provided a bridge between
 the development and network and hardware operations groups.
 I also contributed to troubleshooting performance and deployment issues.
 
-#php #java #jsp #mobile #ivr #4voice #sms #smpp #sybase #er #modelling #databasedesign
+`#php #java #jsp #mobile #ivr #4voice #sms #smpp #sybase #er #modelling #dbmodelling #redhat`
 
 ### Software Developer @ Vodacom
 #### 1999 – 2000 (1 year)
@@ -156,14 +171,14 @@ I also contributed to troubleshooting performance and deployment issues.
 - Netstats
 I developed and maintained one of the internal mobile network performance
 management systems at Vodacom. We used RDBMS backends and OLAP data cubes.
-#olap #statistics #oracle #parsing #holos #seagatesoftware
+`#olap #statistics #oracle #parsing #holos #seagatesoftware #windowsnt`
 
 ### IT Specialist @ Telkom
 #### March 1999 – May 1999 (3 months)
 
 I was responsible for the development and maintenance of a VB6 application
-that managed circuit fault information in a an MS Access database.
-#vb6 #msaccess #forms #validation #reports
+that managed circuit fault information in a MS Access database.
+`#vb6 #msaccess #forms #validation #reports #windows`
 
 ## Education
 
@@ -171,7 +186,7 @@ that managed circuit fault information in a an MS Access database.
 B. Sc. Computer Science(Hons) (Cum Laude), Computer Science, Statistics
 1995 – 1999
 
-- telkom bursary
-- certificates of merit
-[Certificates](resources/und-certificates.png)
-[Transcript](resources/und-transcript.png)
+- Awarded a Telkom bursary for academic years 1996 - 1999
+- [Academic Transcript](resources/und-transcript.png)
+- [Certificates Of Merit](resources/und-certificates.png)
+
