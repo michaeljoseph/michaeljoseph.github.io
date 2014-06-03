@@ -125,6 +125,7 @@ Software development team lead on the PHP, C# and Python development projects.
 #### Projects
 
 - KnowledgeTree (http://www.ktdms.com).
+
 Software Development Lead responsible for the design and management of KnowledgeTree,
 an open source document management system.
 I was the release manager for the initial SourceForge releases.
@@ -150,8 +151,11 @@ and operating system level management services.
 #### Projects
 
 - FTP Interface for the Corporate Messaging Server
-`#java #ftp``
+
+`#java #ftp`
+
 - iTouch SA CMS WebSMS Deployment
+
 `#deployment #documentation #idempotency #installation #configuration #testing`
 
 ### Software Developer @ iTouch Ireland
@@ -171,6 +175,7 @@ I also contributed to troubleshooting performance and deployment issues.
 - Netstats
 I developed and maintained one of the internal mobile network performance
 management systems at Vodacom. We used RDBMS backends and OLAP data cubes.
+
 `#olap #statistics #oracle #parsing #holos #seagatesoftware #windowsnt`
 
 ### IT Specialist @ Telkom
@@ -178,6 +183,7 @@ management systems at Vodacom. We used RDBMS backends and OLAP data cubes.
 
 I was responsible for the development and maintenance of a VB6 application
 that managed circuit fault information in a MS Access database.
+
 `#vb6 #msaccess #forms #validation #reports #windows`
 
 ## Education
