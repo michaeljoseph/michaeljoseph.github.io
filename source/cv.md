@@ -193,6 +193,3 @@ B. Sc. Computer Science(Hons) (Cum Laude), Computer Science, Statistics
 1995 – 1999
 
 - Awarded a Telkom bursary for academic years 1996 - 1999
-- [Academic Transcript](resources/und-transcript.png)
-- [Certificates Of Merit](resources/und-certificates.png)
-
