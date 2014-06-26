@@ -92,3 +92,37 @@ convert a md to html; apply a style; publish to a gist?
 
 - hook cleverbot up to a ntlk chatbot
   - fork and fix it to use requests instead of urllib
+
+
+## mmmd
+
+
+## jobs
+
+http://careers.stackoverflow.com/jobs/54289/php-python-software-developer-uniregistry-com?a=14d4VnWuY&searchTerm=python
+# cayman islands
+
+# braintree
+http://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=odhEYfwQ&s=Stack_Overflow
+http://www.fastcolabs.com/3015485/ten-companies-with-serious-developer-cred
+https://www.braintreepayments.com/blogs/braintrust
+https://github.com/braintree/braintree_python
+
+
+# agflow
+http://www.wired.co.uk/news/archive/2013-11/11/startup-of-the-week-agflow%C2%A0
+http://www.agflow.com/
+
+
+# vital.ai
+http://vital.ai/
+
+
+https://nytechday.com/startups/vital-ai
+
+https://www.linkedin.com/company/vital-ai
+
+
+http://www.seda.org.za/MyBusiness/Factsheets/Pages/SettingupaCC.aspx
+http://corp.co.za/buying-a-shelf-cc-in-south-africa/
+
