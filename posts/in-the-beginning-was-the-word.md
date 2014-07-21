@@ -2,7 +2,7 @@
 .. title: In The Beginning Was The Word
 .. slug: in-the-beginning-was-the-word
 .. date: 2014-07-21 15:05:20 UTC+02:00
-.. tags: 
+.. tags: internet, history 
 .. link: 
 .. description: 
 .. type: text
