@@ -30,7 +30,7 @@ NAVIGATION_LINKS = {
 
 # Name of the theme to use.
 THEME = "zen-jinja"
-#THEME = "bootstrap3"
+
 TIMEZONE = "Africa/Johannesburg"
 POSTS = (
     ("posts/*.md", "posts", "post.tmpl"),
@@ -142,16 +142,16 @@ REDIRECTIONS = []
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
-# GITHUB_SOURCE_BRANCH = 'master'
-# GITHUB_DEPLOY_BRANCH = 'gh-pages'
+GITHUB_SOURCE_BRANCH = 'source'
+GITHUB_DEPLOY_BRANCH = 'master'
 
 # The name of the remote where you wish to push to, using github_deploy.
-# GITHUB_REMOTE_NAME = 'origin'
+GITHUB_REMOTE_NAME = 'origin'
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
 # to the location of conf.py
-# OUTPUT_FOLDER = 'output'
+OUTPUT_FOLDER = 'output'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
