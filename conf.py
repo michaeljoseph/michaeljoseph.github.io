@@ -17,14 +17,20 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ('/index.html', 'Home', 'icon-home'),
+        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+        ('/categories/index.html', 'Tags', 'icon-tags'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
+        ('/portfolio/portfolio.slides.html', 'Portfolio', 'icon-briefcase'),
+        ('/stories/about-me.html', 'About me', 'icon-user'),
+        ('https://twitter.com/michaeljoseph', 'Twitter', 'icon-twitter'),
+        ('https://github.com/michaeljoseph', 'Github', 'icon-github'),
     ),
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "zen-jinja"
+#THEME = "bootstrap3"
 TIMEZONE = "Africa/Johannesburg"
 POSTS = (
     ("posts/*.md", "posts", "post.tmpl"),
@@ -320,7 +326,7 @@ COMMENT_SYSTEM = "disqus"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "nikolademo"
+COMMENT_SYSTEM_ID = "michaeljoseph-github-io"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
