@@ -22,7 +22,8 @@ NAVIGATION_LINKS = {
         ('/categories/index.html', 'Tags', 'icon-tags'),
         ('/rss.xml', 'RSS', 'icon-rss'),
         ('/portfolio/portfolio.slides.html', 'Portfolio', 'icon-briefcase'),
-        ('/stories/about-me.html', 'About me', 'icon-user'),
+        ('/stories/about.html', 'About me', 'icon-user'),
+        ('/stories/cv.html', 'CV me', 'icon-user'),
         ('https://twitter.com/michaeljoseph', 'Twitter', 'icon-twitter'),
         ('https://github.com/michaeljoseph', 'Github', 'icon-github'),
     ),
@@ -518,7 +519,19 @@ COMMENT_SYSTEM_ID = "michaeljoseph-github-io"
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+BODY_END = """
+<script data-gittip-username="michaeljoseph" data-gittip-widget="button" src="//gttp.co/v1.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-48165049-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
