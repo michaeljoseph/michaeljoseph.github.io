@@ -128,3 +128,5 @@ chrome: select url from urls
 2014-07-17 13:22 #socialmedic http://requests-oauthlib.readthedocs.org/en/latest/api.html http://requests-oauthlib.readthedocs.org/en/latest/examples/github.html http://requests-oauthlib.readthedocs.org/en/latest/examples/facebook.html https://pypi.python.org/pypi/twitter https://apps.twitter.com/app/new
 
 2014-07-18 14:15 #telco #ussd http://sacellularnet.co.za/2013/06/mtn-ussd-codes/ http://drifter.biz/2012/08/28/vodacom-ussd-codes/
+
+2014-07-22 00:39 #tweet http://knopfdoubleday.com/2011/03/14/your-cell-phone/ http://www.ibiblio.org/apollo/
