@@ -1,18 +1,24 @@
+<!-- 
+.. title: CV
+.. slug: cv
+.. date: 2014-07-21 16:12:40 UTC+02:00
+.. tags: 
+.. link: 
+.. description: 
+.. type: text
+-->
+
 # Michael Joseph: Professional Resume
 
 ## Details
 
-G: https://github.com/michaeljoseph
-SO: http://stackoverflow.com/users/5549/michaeljoseph
-OH: http://www.ohloh.net/accounts/michaeljoseph
-L: https://www.linkedin.com/in/michaeljoseph
-F: http://www.facebook.com/themichaeljoseph
-T: https://twitter.com/michaeljoseph
-S: themichaeljoseph
-E: michaeljoseph+cv{{timestamp}}@gmail.com
-W: +27 71 604 6098
-DOB: 1.2.1977
-South African Citizen
+<a href="https://github.com/michaeljoseph" title="Github"><i class="icon-github icon-5x"></i></a>
+&nbsp;
+<a href="http://stackoverflow.com/users/5549/michaeljoseph" title="StackOverflow"><i class="icon-stack-overflow icon-5x"></i></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/michaeljoseph" title="LinkedIn"><i class="icon-linkedin icon-5x"></i></a>
+&nbsp;
+<a href="https://twitter.com/michaeljoseph" title="Twitter"><i class="icon-twitter icon-5x"></i></a>
 
 ## Self-Summary
 
