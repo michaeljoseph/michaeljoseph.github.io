@@ -5,15 +5,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://michaeljoseph.github.io/categories/history.xml</loc>
+  <lastmod>2014-07-23</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://michaeljoseph.github.io/categories/internet.xml</loc>
+  <lastmod>2014-07-23</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://michaeljoseph.github.io/galleries/backpackinafrica/rss.xml</loc>
+  <lastmod>2014-07-23</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://michaeljoseph.github.io/galleries/rss.xml</loc>
-  <lastmod>2014-07-21</lastmod>
+  <lastmod>2014-07-23</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://michaeljoseph.github.io/rss.xml</loc>
-  <lastmod>2014-07-21</lastmod>
+  <lastmod>2014-07-23</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://michaeljoseph.github.io/sitemap.xml</loc>
-  <lastmod>2014-07-21</lastmod>
+  <lastmod>2014-07-23</lastmod>
  </sitemap>
 </sitemapindex>
