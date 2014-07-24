@@ -156,3 +156,5 @@ chrome: select url from urls
   - [ ] tidy and finish attendance branch
 - [ ] #pyconza abstracts / lightning talks
 - [ ] transcribe drafts
+
+2014-07-24 14:24 #intellection #keyconnections [ ] id, address, payslip, references
