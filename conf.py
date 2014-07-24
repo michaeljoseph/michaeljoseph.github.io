@@ -34,11 +34,10 @@ THEME = "zen-jinja"
 TIMEZONE = "Africa/Johannesburg"
 POSTS = (
     ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
+    ("pages/*.md", "", "story.tmpl"),
     ("stories/*.md", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
 )
 COMPILERS = {
     "markdown": ('.md', '.mdown', '.markdown'),
