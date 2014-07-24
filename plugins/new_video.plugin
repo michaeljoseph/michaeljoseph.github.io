@@ -1,0 +1,10 @@
+[Core]
+Name = new_video
+Module = new_video
+
+[Documentation]
+Author = Michael Joseph
+Version = 0.1
+Website = http://getnikola.com
+Description = Create a new full screen video post.
+
