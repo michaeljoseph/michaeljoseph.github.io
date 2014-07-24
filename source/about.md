@@ -1,8 +1,11 @@
----
-layout: default
-title: Bio
-description: About me, by me.
----
+<!-- 
+.. title: About MJ
+.. slug: about
+.. date: 2014-07-21 15:05:20 UTC+02:00
+.. tags: about
+.. link: 
+.. description: 
+-->
 
 Self proclaimer. Pastafarian Singularitarian. Breeder. Computer Defeater.
 Your Next Leader.
@@ -14,4 +17,3 @@ Baby Sitter (reasonable rates). Debates. Derides. Decides. Iterates.
 Reiterates. Reiterates.
 
 impossibly pedantic (pɪˈdantɪk), 
-
