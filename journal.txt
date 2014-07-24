@@ -130,3 +130,29 @@ chrome: select url from urls
 2014-07-18 14:15 #telco #ussd http://sacellularnet.co.za/2013/06/mtn-ussd-codes/ http://drifter.biz/2012/08/28/vodacom-ussd-codes/
 
 2014-07-22 00:39 #tweet http://knopfdoubleday.com/2011/03/14/your-cell-phone/ http://www.ibiblio.org/apollo/
+
+2014-07-23 01:44 #python #opensourcefame leverage docopt's (api) to programatically reverse engineer any PATH executable cli into a meta-class written porcelain interface
+
+2014-07-23 11:47 #jrnl workflow- jrnl to internet, jrnlnet
+
+2014-07-23 13:33 refactor dotfiles
+
+2014-07-23 13:51 todo list from network; jrnl2do
+
+2014-07-23 14:35 #product digital asset sales; portfolio sales site; ebooks
+
+2014-07-23 18:13 #todo
+- [ ] exsitement < slow life < nikola aliases
+- [ ] mj < nikola <= jrnl_to_post
+- [ ] backpackin
+  - [ ] gallery
+  - [ ] map / route
+  - [ ] markdown copy
+  - [ ] theme
+- [ ] do it right @internet
+  - [ ] colours
+  - [ ] images
+- [ ] bookie
+  - [ ] tidy and finish attendance branch
+- [ ] #pyconza abstracts / lightning talks
+- [ ] transcribe drafts
