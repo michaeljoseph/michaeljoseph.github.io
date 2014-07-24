@@ -1,11 +1,12 @@
----
-layout: page
-title: "perfection"
-date: 2014-02-07 15:23
-comments: true
-sharing: true
-footer: true
----
+<!-- 
+.. title: perfection
+.. slug: perfection
+.. date: 2014-02-07 15:23:40 UTC+02:00
+.. tags: 
+.. link: 
+.. description: 
+.. type: text
+-->
 Perfection (of a kind) was the measure they held their love up to.
 Hoisting their emotional flagpoles to raise the aesthetic tent of
 their tasteful, by-the-book-and-numbers life.
