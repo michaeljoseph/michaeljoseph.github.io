@@ -1,3 +1,154 @@
+2013-06-09 13:48 #todo zapier, iftt, nitrous.io+chromiumos, speech recognition
+tapestry, new relic, tape.ly, kimono
+
+http://en.wikipedia.org/wiki/Speech_recognition
+https://code.google.com/p/dragonfly/
+https://code.google.com/p/pyspeech/
+http://stackoverflow.com/questions/12239080/getting-started-with-speech-recognition-and-python
+https://pypi.python.org/pypi/SpeechRecognition/
+https://pypi.python.org/pypi/pygsr/0.1
+http://www.athoughtabroad.com/2013/05/22/using-google-s-speech-recognition-web-service-with-python
+http://jugad2.blogspot.com/2014/03/speech-recognition-with-python-speech.html
+https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/?utm_source=Python+Weekly+Newsletter&utm_campaign=d40b33bb60-Python_Weekly_Issue_141_May_2
+9_2014&utm_medium=email&utm_term=0_9e26887fc5-d40b33bb60-309018429
+
+
+image recognition
+
+http://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/?utm_source=Python+Weekly+Newsletter&utm_campaign=d40b33bb60-Python_Weekly_Issue_141_May_29
+_2014&utm_medium=email&utm_term=0_9e26887fc5-d40b33bb60-309018429
+
+TODO
+- [ ] cv
+  - others
+
+- [ ] dos vacas
+  - others
+
+- [ ] http://www.yuppiechef.com/jobs.htm
+- [ ] data fellowship
+- [ ] careers.stackoverflow.com
+
+- [ ] willem / takealot / ecommerce research / takealot dissection
+
+
+# tavis rudd: https://www.youtube.com/watch?v=8SkdfdXWYaI
+  - dragonfly > build samantha :)
+
+
+# the story of writing- andrew robinson
+ - 1995
+ - history of the word: 1995 - 2014 - 2060 - ?
+
+
+# pyconza 2014 talk; shosholoza meyl with nerds
+
+2014-06-05 22:59 switching to jrnl with a xfce hud configuration as a replace for nvpy as a replacement for nvalt
+
+2014-06-05 23:04 TIL: if you live your life in the open, your can use the internet archive to store your stuff, for free, forever.
+
+2014-06-05 23:04 TIL: if you live your life in the open, your can use the internet archive to store your stuff, for free, forever.
+
+2014-06-05 23:57 once you go jrnl, you can never go back
+
+2014-06-05 23:57 once you go jrnl, you can never go back
+
+2014-06-06 00:27 the best thing about coming back home to ubuntu, is that pretty much every opensource program installs and runs like butter down a knive at midday, in su
+mmer.
+
+2014-06-06 00:27 the best thing about coming back home to ubuntu, is that pretty much every opensource program installs and runs like butter down a knive at midday, in su
+mmer.
+
+2014-06-07 21:16 you are possibly the best open source python i've had the pleasure of trying so far.
+:heart_eyes: #cli #ubuntu
+
+2014-06-07 21:16 you are possibly the best open source python i've had the pleasure of trying so far.
+:heart_eyes: #cli #ubuntu
+
+2014-06-08 15:25 ztype-successor customisable text corpuses- lines of computer programs, type the linux kernel or django :) and head to head and leader boards and cordova
+ apps.
+for profit.
+
+2014-06-08 15:25 ztype-successor customisable text corpuses- lines of computer programs, type the linux kernel or django :) and head to head and leader boards and cordova
+ apps.
+for profit.
+
+2014-06-09 11:04 bionics, transhumanism, and the end of evolution #youtube #documentary.
+
+hans moravec: ~16.51
+- human ability is a landscape
+- computers are evolving our skills 10 million times faster than us
+- the water level is rising and we'll be underwater in 50 years
+
+kurzweil
+-
+
+
+we don't need to program AI, the same way we don't need to program a baby
+
+we don't need to understand something to build it
+  - just keep the black boxes
+
+2014-06-09 11:04 bionics, transhumanism, and the end of evolution #youtube #documentary.
+
+hans moravec: ~16.51
+- human ability is a landscape
+- computers are evolving our skills 10 million times faster than us
+- the water level is rising and we'll be underwater in 50 years
+
+kurzweil
+-
+
+
+we don't need to program AI, the same way we don't need to program a baby
+
+we don't need to understand something to build it
+  - just keep the black boxes
+
+2014-06-09 13:48 #todo zapier, iftt, nitrous.io+chromiumos, speech recognition
+
+2014-06-09 23:46 2014-06-05 22:59 switching to jrnl with a xfce hud configuration as a replace for nvpy as a replacement for nvalt
+
+2014-06-09 23:47 #ubuntu #productivity #keyboardshortcuts #superpowers
+
+2014-06-09 23:47 youtube-dl has changed my life #i-want-to-marry-software
+
+2014-06-10 00:01 calibre for #ebooks, and maybe games with #playonlinux
+
+2014-06-10 00:05 #xubuntu window tiling shortcuts
+
+2014-06-10 02:30 the secret 2.30 AM cape metro party train
+
+2014-06-10 04:45 #exsitement time trial 1: dos vacas, about to be extremely tired
+
+2014-06-10 04:51 sigh, lost bits
+
+2014-06-10 04:53 #biztime project init
+
+2014-06-10 05:27 #biztime finally starting dos vacas template md doc
+
+2014-06-10 05:49 distracted by pictures
+
+2014-06-10 06:15 going for a walk
+
+2014-06-10 10:16 school of data fellowship application
+
+2014-06-11 10:48 app idea: astrology match http://astro.cafeastrology.com/cgi-bin/astro/comp2f?d1day=1&d1month=2&d1year=1977&d2day=22&d2month=8&d2year=1977
+
+2014-06-12 13:55 #whatsapps in the house.
+welcome the robots i for one do
+http://hacktracking.blogspot.com/2013/02/yowsup-cli-send-whatsapp-messages-from.html
+
+2014-06-12 14:16 screw you hfs+: http://superuser.com/a/365270/329973
+
+2014-06-12 14:26 same treatment for you no more free google apps: http://www.hongkiat.com/blog/google-app-mail-for-free
+
+2014-06-12 18:25 create invylet.tk
+
+2014-06-14 21:24 scraperwiki, kimonolabs and http://apievangelist.com/2014/04/09/the-role-of-scraping-in-api-deployment/
+
+2014-06-16 13:36 #ubuntu #reinstall https://help.ubuntu.com/community/BurningIsoHowto#Burning_from_Ubuntu
+
 2014-06-25 12:52 sigh, and so we begin again
 
 2014-06-25 12:53 always from scratch
@@ -158,3 +309,5 @@ chrome: select url from urls
 - [ ] transcribe drafts
 
 2014-07-24 14:24 #intellection #keyconnections [ ] id, address, payslip, references
+
+2014-07-24 15:34 #debt imhoff, rent
