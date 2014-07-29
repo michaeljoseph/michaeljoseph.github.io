@@ -311,3 +311,41 @@ chrome: select url from urls
 2014-07-24 14:24 #intellection #keyconnections [ ] id, address, payslip, references
 
 2014-07-24 15:34 #debt imhoff, rent
+
+2014-07-25 12:55 #planning #todo
+- [ ] slow life
+
+2014-07-25 12:57 also base bookings kernel
+
+2014-07-25 13:12 #slow life big video demo customised!
+
+2014-07-25 13:18 #slow social media links with fontawesome
+
+2014-07-25 13:34 #slow almost done, reasonably efficient
+
+2014-07-25 13:44 #slowlife address, phone w/ fa icons todo
+
+2014-07-25 13:53 #slowlife done; publishing
+
+2014-07-25 16:36 #slow life details
+
+2014-07-26 16:09 # tidy up and then spike on event page with payment
+
+2014-07-26 16:43 done tidying up and started trello for slow
+
+2014-07-26 17:13 #cream https://www.payfast.co.za/developers/request-money and fix gittip on mj.gh.io
+
+2014-07-26 17:15 #tool qr integration #service http://snap.vu/
+
+2014-07-26 17:17 #analytics and short urls https://bitly.com/ https://goo.gl/
+
+2014-07-26 17:54 #slow souldance slideshow up, script image markup [md?]
+
+2014-07-26 19:05 #slow almost done.
+basic slideshow with generation
+
+2014-07-28 12:09 intellection.
+brendon, dave, donovan, charlene, martin, tim (.net)
+
+2014-07-29 12:26 #talk abstract: levelling up.
+getting big. prototype to product. monolith to platform
