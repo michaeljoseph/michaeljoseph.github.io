@@ -19,12 +19,13 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home', 'icon-home'),
         ('/archive.html', 'Archives', 'icon-folder-open-alt'),
-        ('/categories/index.html', 'Tags', 'icon-tags'),
-        ('/rss.xml', 'RSS', 'icon-rss'),
         ('/about.html', 'About me', 'icon-smile'),
         ('/cv.html', 'CV me', 'icon-user'),
         ('https://twitter.com/michaeljoseph', 'Twitter', 'icon-twitter'),
         ('https://github.com/michaeljoseph', 'Github', 'icon-github'),
+        ('https://www.gittip.com/michaeljoseph', 'Gittip', 'icon-gittip'),
+        ('/categories/index.html', 'Tags', 'icon-tags'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
     ),
 }
 
@@ -518,7 +519,6 @@ COMMENT_SYSTEM_ID = "michaeljoseph-github-io"
 # in the default template (base.tmpl).
 # (translatable)
 BODY_END = """
-<script data-gittip-username="michaeljoseph" data-gittip-widget="button" src="//gttp.co/v1.js"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-48165049-1']);
