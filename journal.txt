@@ -361,3 +361,112 @@ bower component
 2014-07-30 11:42 #kaku https://www.youtube.com/watch?v=OUVw6Pn6GTg future of the mind
 
 2014-07-30 11:44 wayfinder cream- the might wu-tang youtube-dl https://www.youtube.com/watch?v=PBwAxmrE194
+
+2014-08-05 12:45 tasha setup done, populate trello
+
+2014-08-05 17:29 #timelog imag stub + trello
+
+2014-08-06 17:46 codeacademy ruby 9hours
+
+2014-08-06 18:36 codeacademy 100 exercises
+
+2014-08-08 09:02 #localhost local development webapp for local git repo CI
+initialise test runs on watch
+
+run and graph performance
+test trends and status
+coverage
+documentation
+
+# Local CI
+- jenkins: http://matschaffer.com/2012/04/local-jenkins-server/
+
+- https://github.com/jolicode/JoliCi (docker) #php
+- https://getcomposer.org #php
+- laravel #php
+- https://packagist.org #php
+- cheap hosting #php
+
+http://www.dabapps.com/blog/python-tools-local-continuous-integration/
+https://github.com/brunobord/tdaemon
++coviolations
+https://coviolationsio.readthedocs.org/en/latest/
+
+tdaemon => generate html => nikola style auto reload / websockets
+
+test profiling
+nosetest
+pytest
+http://pytest.org/latest/example/simple.html # --durations=3
+
+https://zapier.com/engineering/profiling-python-boss/
+https://github.com/zapier/profiling-python-like-a-boss
+
+http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script
+http://pycallgraph.slowchop.com/en/latest/
+
+https://code.google.com/p/jrfonseca/wiki/Gprof2Dot
+http://stackoverflow.com/a/13830132/5549
+$ sudo apt-get install graphviz
+$ git clone https://code.google.com/p/jrfonseca.gprof2dot/ gprof2dot
+$ ln -s "$PWD"/gprof2dot/gprof2dot.py ~/bin
+$ cd $PROJECT_DIR
+$ gprof2dot.py -f pstats profile.pstats | dot -Tsvg -o callgraph.svg
+
+
+roll your own
+http://www.huyng.com/posts/python-performance-analysis/
+cProfile + lineprofiler
+http://pymotw.com/2/profile/
+
+
+## changes coviolations
+## changes init
+init project
+- gh (/bb) new repo
+  - hub < rvm < ruby
+
+- changes: initialise
+  - new gh repo
+  - cookiecutter api <configured list of changes compatible templates>
+  - autoenv helpers
+
+# pennant: python coding conventions
+
+# Rubyista
+- http://www.sinatrarb.com #ruby
+- http://rubyonrails.org #ruby
+- hosting #heroku
+
+# JavaAddict
+- playframework #java
+- dropwizard #java
+- hosting #google code
+
+# Snaky
+- flask + batteries
+- sqlite / peewee
+- djrf
+- rq
+
+2014-08-08 11:26 cookiecutter: extra context cli and parameter validation
+
+2014-08-08 17:54 #refactor with requests and functions: porcelain api https://github.com/GoogleCloudPlatform/Solutions-Using-ETL-tool-on-Google-Compute-Engine/blob/master/gce_api.py
+
+2014-08-09 11:26 #teaching #programming #python http://www.curiousefficiency.org/posts/2014/08/python-teaching-suggestions.html
+
+2014-08-09 11:29 http://robert.ocallahan.org/2014/08/choose-firefox-now-or-later-you-wont.html #firefox back to firefox?
+
+2014-08-09 11:35 http://computableapp.com/ ipad ipython notebook
+
+2014-08-19 12:41 The toolbox: ubuntu, i3m, feh, ranger, terminator, chromium, gvim
+http://crunchbang.org/forums/viewtopic.php?id=27644
+https://www.digitalocean.com/community/tutorials/installing-and-using-ranger-a-terminal-file-manager-on-a-ubuntu-vps
+http://linuxtidbits.wordpress.com/2008/04/08/using-feh-as-the-default-picture-browser/
+http://man.finalrewind.org/1/feh/
+http://feh.finalrewind.org/examples/
+https://faq.i3wm.org/question/279/how-do-you-use-i3-comfortably/
+http://www.linux.com/learn/tutorials/766143-how-to-use-the-superfast-i3-tiling-window-manager-on-linux
+http://portland.freedesktop.org/xdg-utils-1.0/xdg-mime.html
+http://stackoverflow.com/questions/2060284/how-to-use-the-xdg-mime-command
+http://blog.radevic.com/2012/02/how-to-set-default-apps-aka-how-to-use.html
