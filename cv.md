@@ -23,7 +23,7 @@
 ## Self-Summary
 
 Hi, I'm Michael, Michael Joseph (yes, two first names, I know. MJ works as
-an internet handle, for people not into the whole brevity thing and
+an internet handle, for people into the whole brevity thing as well as for
 disambiguation purposes).
 
 I have worked in the computer / internet industry for the last 14 years,
@@ -35,23 +35,26 @@ tabs vs spaces (ok, wait, scratch the last one, I _am_ zealous about
 whitespace)). I play extremely well with others, but I also _need_ to have
 *some* solo time.
 
-I can write, read, review, edit and correct
-(in order of preference and experience):
+I can write, read and review (in order of preference and experience):
 
 - English
 - Python
 - Bash + GNU
+- Ruby
 - Java
 - PHP
-- Javascript, Ruby
+- Javascript
 
 I've been the technology lead of small developer teams (max 5), providing
 technical leadership and engineering management roles.
 
-I spoke at [PyconZA 2013](https://www.youtube.com/watch?v=R1i-louid4M)
-about the work we did at [Yola](https://www.yola.com) during my time there.
+I spoke at [PyconZA 2013](https://archive.org/details/pyconza2013-app-to-platform)
+about the work we did at [Yola](https://www.yola.com) during my time there, and
+at [PyconZA 2014](https://archive.org/details/pyconza2014-cookie-monster) about becoming a contributor to an Open Source project.
 
 [Application to Platform: How we used Python to scale Yola](http://michaeljoseph.github.io/application-to-platform/)
+
+[How I Became A Cookie Monster](http://michaeljoseph.github.io/cookiemonster/)
 
 ## Roles
 
@@ -65,12 +68,22 @@ about the work we did at [Yola](https://www.yola.com) during my time there.
 
 ### Future
 
-- Communication Bridge between misunderstanding teams / groups
-  e.g. engineering and marketing / product / programme management (#suitsvsnerds)
-- Developer Evangelist
-- Chief Cognitive Scientist
+- Communication Bridge between miscommunicating teams / groups
+  e.g. engineering and marketing / product / programme management
+- Developer Evangelist / Efficiency Engineer
 
 ## Work Experience
+
+### Senior Software Developer @ Intellection Software
+#### August 2014 - September 2015 (1 year 1 month)
+
+I was part of the core team responsible for:
+- administering and configuring production and development clusters
+- improving application deployment and continuous integration systems
+- general AWS administration
+- supporting Ruby On Rails web application developers
+
+`#ruby #rubyonrails #aws #chef #opsworks #docker #ansible`
 
 ### Services Team Lead @ Yola.com
 #### February 2011 - May 2014 (3 years 4 months)

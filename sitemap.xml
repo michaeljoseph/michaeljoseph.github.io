@@ -1,71 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://michaeljoseph.github.io/2014/index.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/about.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/archive.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/categories/history.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/categories/index.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/categories/internet.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/cv.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-21T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/galleries/backpackinafrica/index.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/galleries/index.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/index.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/listings/.gitkeep.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/listings/index.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/maya-belle-josephs-birthday-party-2014.html</loc>
-  <lastmod>2014-08-01</lastmod>
- </url>
- <url>
-  <loc>http://michaeljoseph.github.io/posts/belief.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/posts/in-the-beginning-was-the-word.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://michaeljoseph.github.io/stories/perfection.html</loc>
-  <lastmod>2014-08-01</lastmod>
+  <lastmod>2015-11-17T13:54:00Z</lastmod>
  </url>
 </urlset>
