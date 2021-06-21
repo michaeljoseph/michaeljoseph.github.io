@@ -1,0 +1,133 @@
+## lazyweb apophenia.wtf|dev|love|xyz
+- [ ] issue tools
+- [ ] gdocs proselint/vale aas (danger.api)
+- [ ] 10.162 nerdlove: programmer dating, private github repo collaborators
+- [ ] 10.164 check-yo-self: schedule <quarterly> 1:1s with your(quantified)self. goals/planning updates; cv update (TK: always be quitting)
+- [ ] jq, but more documentation markup (md, rst, adoc)
+- [ ] 10.111 a/v cli toolkit 
+- [ ] 10.190 doubleblind: swipe match on words and pictures indepdendently
+- [ ] txtprocess: generalise documents based process state machine (eg. RFCs)
+- [ ] 10.170 supercutter
+- [ ] writerly social media assistant / intern.
+- [ ] 10.189 gaiman's law: robo-proofer (and agent?)
+- [ ] 10.108 contributions: mashup gl+gh analytics with chart.js radar charts
+- [ ] imgflip cli and whatapp^2 [?]
+- [ ] 10.134 clippy: cli clipboard transforms pipeline
+- [ ] 10.184 nflix export, letterboxd, playlists
+- [ ] 10.222 quibble: letterpress, but not territorial. scrabble scoring and bonus tiles, bonuses for homophones, rhymes, #of opponent's last word's letters
+- [ ] 10.197 txt-bot: i/o in watched text document (snippets and templates)
+- [ ] 10.207 issue template parsing ci auto content generate and deploy, for content-only info sites (hollywoodagegap, emojiscreen)
+- [ ] talk assistant (spaced repition, voice memo helpers)
+- [ ] 10.223 cuddlematch.date: picnic, beach, movies, restaurant booth
+- [ ] 10.224 slowflow / human computer relations. every (so often | once in a while)
+- [ ] 10.225 scripts to rule them all 2021 docker edition (dev verbs)
+- [ ] 10.223 online intimacy levels. quantified love
+- [ ] +write how i git. hack, `git add -p`|gui && commit (reviewers); stash and localci; commend/fixup; remote ci green; self-review and describe change for reviewers
+- [ ] semantics / semanticism: commits, comments, PR title/body.
+- [ ] 10.227 +write goldratt=>kim=>joseph. a reluctant team lead gets sucked into the power vacuum of the CTO's abrupt departure (iflossmom, antagonist caricatures, mentor/obi-wan: sufficiently advanced doppelbot from the future)
+- [ ] interactive fiction: customised CYOA path from quiz results. `play-tester` traverses the CYOA graph and scores outcomes (LOTR mouse early exit jokes)
+- [ ] 10.230 tasty: letterboxd, goodreads, youtube, netflix) generate taste compatibility % (100 = we are the same person). discover recommendations from taste diffs
+- [ ] 10.233,235 chesswords
+- [ ] 10.234 slack apps on glitch and repl.it. (there's an xkcd for that, lebowski/movie quotes)
+- [ ] 10.237 OH on CNN for SPY
+- [ ] 10.237 peripheral naming scheme
+- [ ] 10.239 +write compare and contrast the workflows of a) word game designers 2) novelists 3) programmers
+- [ ] 10.242, 11.29 friends and family services. floss projects with trello.
+- [ ] everyone has one book in them. self-publishing services (transcription, proofing, kindle store, KDP, localised payment gateways)
+- [ ] 10.243 fridge magnet haiku/poetry editor webtoy
+- [ ] 10.244 1m video memo chats aas.date
+- [ ] 10.246 diffgif: one minute demos
+- [ ] 10.247 hackcamstack
+- [ ] 10.249 attentive: switch to attentive loop. mute/video refresh switchover
+- [ ] 10.249 patois: dialogue/accent search/replace
+- [ ] 10.251 indie author expenses. forward receipts to service@domain. output: web, csv, gdoc, xlsx, docx
+- [ ] 10.256 initializer / clichealizer
+- [ ] 10.258 +write desktop crossplatform apps 2021 ?
+- [ ] 10.259 "tricorder": message composer
+- [ ] 11.{8, 13, 17, 23, 24} ideas
+
+
+## 2014
+- menu app
+- cape commute (?)
+- thunnee
+- tourniquet: turn based game sdk
+- a brief history of the word
+- stellar
+- rapgenius + youtube vides; sync lyrics
+- (haiku?)
+- (computer on paper talk)
+- theory of humour (glossary; history; theory of funny)
+- doppelbot
+- youreallylikeme.com **
+- (talk research notes)
+- avdb: nice a/v clip sound boards
+- remarkable: presentation templates
+- ztypists: ocr score page
+- codehands
+- online courses; msc applications; bursary applications
+- science of attraction / social dynamics
+- babelfish [google translate + google speech2text]
+  ```python
+  # http://pythonhosted.org/goslate/
+  # http://www.cleverscript.com
+  import goslate
+  gs = goslate.Goslate()
+  assert gs.translate('hello world', 'de') == 'hallo welt'
+  ```
+- gh for writers; newssite (framework / site that codifies the process and competes with wordpress editflow)
+- facetree.com
+- loveletters.net
+- videomix / tubemix / video playlists; avplaylists.org
+- cmdline ios appdev guide
+- singalongs (commentary / parody lyrics)
+- game that hides mensa puzzles
+  - sequences and patterns
+  - platformer with minigames?
+- editthis.org
+  - given a url; allows you to criticmarkup changes to it
+  - track changes for markdown: step through edits and apply / discard / comment
+- babyai (cf. chiang software lifecycle)
+- emoji-img / avdb / video soundboards
+- post + vid + audio: how to podcast in a day
+- pssht: mashup of beat of breed ssh / scripting [f]
+- js single page app: creates a markdown gist; url with sha
+   - downloads and mkdocs renders with switchable theme
+   - hackers can download and customise their own look
+   - each page / post is a "site"; stands alone
+- create a facebook event; gcal invite from a md file with event metadata; publish page to gists
+- actorstats.org
+  - nicholas kim coppola (aka nicholas cage): 79 movies over 33 years; one a year since 1980 (except 1985 and 1991)
+  - scrape wikipedia for: dob; # of films; generate interesting stats from data...
+- single page publishing
+  - convert a md to html; apply a style; publish to a gist?
+- bushman's chess
+  - turn based [tourniquet]
+  - cli
+  - js app
+- posts
+  - [ ] twinpeaks: cooper, black coffee quote, image
+  - [ ] twin peaks: humour, waiting for the lynch effect to kick in
+  - [ ] women of twin peaks:
+  - [ ] mike and bob, the movie scans like a poe, and / or surrealist / abstract oil on canvas
+        the backwards speaking midget and laura thomas doppelganger cousin
+  - [ ] upscale into a long form review
+  - [ ] tv series list: firefly, arrested, the wire, twin peaks, x-files (duchovny), 
+    father ted, blackadder, community, sherlock, workaholics
+  - 2048 solver
+  - milan programming lessons; update post
+  - hook cleverbot up to a ntlk chatbot
+    - fork and fix it to use requests instead of urllib
+- jobs
+  - http://careers.stackoverflow.com/jobs/54289/php-python-software-developer-uniregistry-com?a=14d4VnWuY&searchTerm=python
+  - http://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=odhEYfwQ&s=Stack_Overflow
+  - http://www.fastcolabs.com/3015485/ten-companies-with-serious-developer-cred
+  - https://www.braintreepayments.com/blogs/braintrust
+  - https://github.com/braintree/braintree_python
+  - http://www.wired.co.uk/news/archive/2013-11/11/startup-of-the-week-agflow%C2%A0
+  - http://www.agflow.com/
+  - http://vital.ai/
+  - https://nytechday.com/startups/vital-ai
+  - https://www.linkedin.com/company/vital-ai
+  - http://www.seda.org.za/MyBusiness/Factsheets/Pages/SettingupaCC.aspx
+  - http://corp.co.za/buying-a-shelf-cc-in-south-africa/
