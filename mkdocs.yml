@@ -1,0 +1,29 @@
+site_name: michaeljoseph
+site_url: http://michaeljoseph.github.io
+
+extra:
+  hack_style: solarized_dark
+
+theme:
+    name: material
+    logo: media/avataaar.png
+    palette:
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        toggle:
+          icon: material/weather-sunny
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        toggle:
+          icon: material/weather-night
+          name: Switch to light mode
+
+markdown_extensions:
+    - toc:
+        permalink: ⚓️
+    - meta
+    - attr_list
+
+nav:
+  - 🏠: index.md
