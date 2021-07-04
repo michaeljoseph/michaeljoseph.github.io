@@ -7,6 +7,9 @@ extra:
 theme:
     name: material
     logo: media/avataaar.png
+    features:
+       - navigation.tabs
+       - navigation.instant
     palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default
@@ -18,12 +21,35 @@ theme:
         toggle:
           icon: material/weather-night
           name: Switch to light mode
-
-markdown_extensions:
-    - toc:
-        permalink: ⚓️
-    - meta
-    - attr_list
-
 nav:
   - 🏠: index.md
+  - 🤓🤖 Resume: resume.md
+
+markdown_extensions:
+
+    - attr_list:
+    - codehilite:
+    - meta:
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.details:
+    - pymdownx.highlight:
+        css_class: codehilite
+    - pymdownx.magiclink:
+    - pymdownx.snippets:
+        base_path: docs/_snippets
+        check_paths: true
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_div_format
+    - pymdownx.tabbed:
+    - toc:
+        permalink: ⚓️
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.9/mermaid.neutral.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.9/mermaid.min.js
