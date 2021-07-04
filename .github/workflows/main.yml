@@ -21,20 +21,14 @@ jobs:
           poetry install
           poetry run mkdocs build
 
-      - name: Deploy PR preview to Surge
-        uses: afc163/surge-preview@v1
-        id: preview_step
+      - name: Deploy preview to Surge
         if: github.event_name == 'pull_request'
-        with:
-          surge_token: ${{ secrets.SURGE_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          dist: site
-          teardown: 'true'
-          build: |
-            echo "mkdocs has built site/ already"
-      - name: Get the preview_url
-        if: github.event_name == 'pull_request'
-        run: echo "${{ steps.preview_step.outputs.preview_url }}"
+        env:
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+        run: |
+          npx surge --project site \
+                    --domain michaeljoseph-preview-${{ github.event.number }}.surge.sh \
+                    --token ${{ secrets.SURGE_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
@@ -45,7 +39,9 @@ jobs:
 
       - name: Deploy to Surge
         if: github.ref == 'refs/heads/main'
+        env:
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
         run: |
           npx surge --project site \
-                    --domain mycurl.surge.sh \
+                    --domain michaeljoseph.surge.sh \
                     --token ${{ secrets.SURGE_TOKEN }}
