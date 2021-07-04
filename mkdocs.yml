@@ -1,0 +1,63 @@
+site_name: michaeljoseph
+site_url: http://michaeljoseph.github.io
+
+extra:
+  hack_style: solarized_dark
+
+theme:
+    name: material
+    logo: media/avataaar.png
+    features:
+       - navigation.instant
+    palette:
+      - scheme: slate
+        primary: pink
+        toggle:
+          icon: material/fingerprint
+          name: pink-mode
+      - scheme: slate
+        primary: light blue
+        toggle:
+          icon: fontawesome/solid/robot
+          name: light-blue-mode
+      - scheme: slate
+        primary: purple
+        toggle:
+          icon: material/eye-outline
+          name: purple-mode
+      - scheme: slate
+        primary: teal
+        toggle:
+          icon: material/eye
+          name: teal-mode
+
+nav:
+  - 🤓🤖 Resume: resume.md
+
+markdown_extensions:
+    - attr_list:
+    - codehilite:
+    - meta:
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.details:
+    - pymdownx.highlight:
+        css_class: codehilite
+    - pymdownx.magiclink:
+    - pymdownx.snippets:
+        base_path: docs/_snippets
+        check_paths: true
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_div_format
+    - pymdownx.tabbed:
+    - toc:
+        permalink: ⚓️
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.9/mermaid.neutral.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.9/mermaid.min.js

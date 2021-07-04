@@ -36,6 +36,7 @@ nosetests.xml
 .pydevproject
 
 /docs/_build
+/site
 .idea
 *.iml
 .noseids

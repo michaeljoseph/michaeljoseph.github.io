@@ -1,128 +1,123 @@
 # todo
 
-## menu app
-## cape commute (?)
-## thunnee
-### tourniquet: turn based game sdk
+- techku? with acronnyms, like see-quill? :thinking: that's maybe cool, vocalising the thingy?
+- monorepo `hq`
+    - mj.dev: tech
+    - mycurl.wtf: personal
+    - angelsmear: authornym 
+- extract +write to [tech,personal]/writes/sentences
+- scrub dotfiles for sensitive stuff
+- +write digital garden howto, tutorial
+- 10.212 mj/writes/haikumoji
+- 11.40 how i notes +write
+- +write 10.{60, 79, 84, 86, 116, 119, 127, 152, 170, 200, 221, 223, 228, 232, 239, 258}; 11.{36, 49, 50}
+- 10.210 punch up serverless +write
+- 10.115 cv timeline with tech historical in-this-year context (reverse engineer jetbrains timeline)
+- +write +tech +howto personal cheatsheet collections and polyglot rosetta stones for fws and languages; !maps to cv:xp (cf. rgeorge-parsingphase) 
+- +write techxperience; techxp
+- +write cool-uris don't change (but they can redirect), pronounceable urls are cooler
+- +write +howto static site with a web frontend for user generated content without a gh a/c. anon form submit => issues api
+- haiku: amongst our weaponry are
+  - schema constraint: 5/7/5 (solitaire syllable scrabble)
+  - content: nature; turn/oh!
+- +write others: prime number sentences <= 13; cf. textlines
+- 11.68 +write +word-o-phile +wotd aphophenia (cf. pi, requiem, beautiful mind, maniac, the show with aubrey plaza); word mind map 👇
+- 11.70 +write +story +mcguffin DILATION: relative timescales, overlapping, layereds arcs in the same spacetime. cf. why women kill, cloud atlas, TK: cosmic binary pocket universe transmission relative time dilation 
+- 11.76 +write +musings! compare and contrast the intensity levels of developing a crush IRL(non-verbals, touch), and hypermedia (instant communication (text, images, audio, video, face-time)) ; cf. the senses
+- 11.77 +write +tfw +third-world-problems you know the internet is back because your stalled youtube music starts playing over your vlc-mp3 backup
+- 11.77 +write +tfw you're old enough
+    - to resent having to flick the year spinner of a signup form back to the seventies 🙄
+    - your autosave muscle memory triggers your browser's Save Page As dialog whenever you have to type something into a textbox. > show me on this doll, where the lack of auto save hurt you
+- 11.81 +write +microblog serenity prayer: the patience to suffer the ignorance of fools; "frustration is an essential part of success"- TK? (brene brown?); cf. being stuck in a word game, problem solving; 💡 📓✍️ documentation opportunity
 
-## a brief history of the word
-## stellar
-## rapgenius + youtube vides; sync lyrics
-## (haiku?)
-## (computer on paper talk)
-## theory of humour (glossary; history; theory of funny)
-## doppelbot
-## youreallylikeme.com **
-## (talk research notes)
-## avdb: nice a/v clip sound boards
-## remarkable: presentation templates
-## ztypists: ocr score page
-## codehands
-## online courses; msc applications; bursary applications
-## science of attraction / social dynamics
-## babelfish [google translate + google speech2text]
-http://pythonhosted.org/goslate/
->>> import goslate
->>> gs = goslate.Goslate()
->>> print gs.translate('hello world', 'de')
-hallo welt
+- 10.217 project rating: effort, impact, profit, fun
+- 10/100/1 find reference and post about my list +write
+- TK: 11.15 11.31 transcribe mj.dev/writes/poems/haiku
+- export and migrate: onetab, browser history, buku, LOLinks
+- 11.65 export onetabs => csv,json,md
+- 11.60 +write +review +tech +cli rough-critic poc/spike for gof (spell, vale, proof) [pandiff => critic-markup, docx-changes]
 
-http://www.cleverscript.com
+- 11.29 +fried-dough +tech friend-dough.love
+- 11.76 +fried-dough the-heart-grows-fonder / in-touch
+  - geolocation, distance, weather, zeitgeist / links of the day
+- 11.66 +write +youku +daiku +fried-dough: sexposition > socks and slops, sun-sloshed / 🤔💭 speculum al foderi / fried toe reveries
+- 11.30 slack DMs(+ other chats) => html for tribes / trust circle
+- 11.39 i'm bringing email back: cf. author expenses, ian quotes (poll gmail label, do stuff, mark read, reply to email)
+- 11.65 ❗️ subsume is to dominate, as markdown is to html
+- 11.72 human awards: eotm but everyone gets a prize ❄️; search through metric combination space to find/generate a unique award per person + quarterly rfc'd eotm thresholds. gift cars; webhook
+- 11.73 pets, not cattle. 4a(lazari), 9c(?), iPad(?), mbp(obsequious), work-mbp(?)
+- 11.83 +tjd the little black book project: look-what-you-made-me-haiku (17, facing page prose or art or decoupage; TK: auto??), trace QR codes; end-piece images (equation patterns; peacock colour palettes)
 
+----
 
-## gh for writers; newssite (framework / site that codifies the process and competes with wordpress editflow)
-## facetree.com
-## loveletters.net
-## videomix / tubemix / video playlists; avplaylists.org
-## cmdline ios appdev guide
-## singalongs (commentary / parody lyrics)
-## game that hides mensa puzzles
-- sequences and patterns
-- platformer with minigames?
-## editthis.org
-- given a url; allows you to criticmarkup changes to it
-- track changes for markdown: step through edits and apply / discard / comment
-# babyai
-# emoji-img / avdb / video soundboards
-# post + vid + audio: how to podcast in a day
-
-## pssht: mashup of beat of breed ssh / scripting [f]
-
-## js single page app: creates a markdown gist; url with sha
-   - downloads and mkdocs renders with switchable theme
-   - hackers can download and customise their own look
-   - each page / post is a "site"; stands alone
-
-
-## create a facebook event; gcal invite from a md file with event metadata; publish page to gists
-
-## actorstats.org
-- nicholas kim coppola (aka nicholas cage): 79 movies over 33 years; one a year since 1980 (except 1985 and 1991)
-- scrape wikipedia for: dob; # of films; generate interesting stats from data...
-
-
-## single page publishing
-convert a md to html; apply a style; publish to a gist?
->> gists.io
-
->> alias to gists new FILE; open http://gists.io/<id>
-
-## bushman's chess
-- turn based [tourniquet]
-- cli
-- js app
-
-## 
-
-## posts
-- [ ] twinpeaks: cooper, black coffee quote, image
-- [ ] twin peaks: humour, waiting for the lynch effect to kick in
-- [ ] women of twin peaks:
-- [ ] mike and bob, the movie scans like a poe, and / or surrealist / abstract oil on canvas
-      the backwards speaking midget and laura thomas doppelganger cousin
-- [ ] upscale into a long form review
-
-- [ ] tv series list: firefly, arrested, the wire, twin peaks, x-files (duchovny), 
-  father ted, blackadder, community, sherlock, workaholics
-- [ ] 
-
-- 2048 solver
-
-- milan programming lessons; update post
-
-- hook cleverbot up to a ntlk chatbot
-  - fork and fix it to use requests instead of urllib
-
-
-## mmmd
-
-
-## jobs
-
-http://careers.stackoverflow.com/jobs/54289/php-python-software-developer-uniregistry-com?a=14d4VnWuY&searchTerm=python
-# cayman islands
-
-# braintree
-http://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=odhEYfwQ&s=Stack_Overflow
-http://www.fastcolabs.com/3015485/ten-companies-with-serious-developer-cred
-https://www.braintreepayments.com/blogs/braintrust
-https://github.com/braintree/braintree_python
-
-
-# agflow
-http://www.wired.co.uk/news/archive/2013-11/11/startup-of-the-week-agflow%C2%A0
-http://www.agflow.com/
-
-
-# vital.ai
-http://vital.ai/
-
-
-https://nytechday.com/startups/vital-ai
-
-https://www.linkedin.com/company/vital-ai
-
-
-http://www.seda.org.za/MyBusiness/Factsheets/Pages/SettingupaCC.aspx
-http://corp.co.za/buying-a-shelf-cc-in-south-africa/
-
+- epitome: py documentation support
+- docs only template? => digital garden +mkdocs +cookiecutter +templates
+- gh/README generate in ci from mj.gh.io (flossmom profile/portfolio, contributions.radar.chartjs)
+- 10.193 gh README (ci generated)
+- +write howto codepen => mkdocs template
+- i have questions: covid declarations, small scale surveys (gforms: ui, gsheets: db, serverless-stack-provider?: functions)
+- love island reality bingo
+- 10.202 of the month. programmer eotm, but make it humane.
+- wotd: +slowflow issues, ci:bot, ssg deploy, weekly newsletter.
+- triage: label, gardening, chore
+- 🚀 1.0.0: changes, synthetic, magicshow
+- pynotifier: ? +floss
+- mkdocs watch +floss
+- pyspelling rich output +floss
+- cookiecutter plugins with pluggy +floss
+- cookiecutter: reintegrate cruft +floss
+- pymdown.snippets: line ranges (and adjusted line numbering?) +flass
+- vscapi: async collection(template, item dataclass). cf. grimoirelabs/perceval
+- 10.110 alda.py
+- the spanish inquisition: node inquisitor with nodeenv. `console.log(answers.json); json.loads(stdout) = answers`
+- 10.206 prosaic fridge magnet haiku generator webtoy
+- 10.214 maintain-a-**fork**
+- 10.216, 11.19 +liff try make them toponyms
+- a/v coder: avatarify, obs, lolcommit, say, notify
+- wutsup => wordplay
+- 11.27 literary program design glossary: parts of speech (noun, verb, subject, object); 11.35 saas office tools as paas analogs
+- domain name puns and hacks generator
+- nsfw-lady comic
+- 11.32 thesaurise idioms and cliches
+- 11.36 mj.dev/dates/chat stream.io
+- ghpimport, but for repl.it/glitch and also it's a cookiecutter
+- 11.37 digiganger (TK etym?) assistant, chat logs(wa,slack,email), code+comments(gh.gl auto-review), voice/video/handwriting synthesis(auto-present), prose bot (auto-write) +shallow-fakes
+- iflossmom starter kit
+- writing site: i write what i like
+- lament: probot that labels from comments (pretty sure this is already a thing)
+- 11.41 floss survey (cf. nafaiya) statistical categories (hobby, SML), governance, process (python|php|ruby, django|laravel|rails, cookiecutter, changes)
+- 11.42 army of my project: little ~boxes~ robots made of tickey tackey
+- 11.43 mdlist: (gfmtodo/commonmarktodo) mdtodo2{trello, issues, jira}
+- what's in the box? plugin customised vscode, remote or local, web or electron (draftin, but local)
+- 11.46 coffeeshop: witb? for authors
+- 11.44 remy: sw component that interacts with the host system on behalf of a dockerised appliction
+- thought-blaster: floss rocketbook clone (standard emojis, tags, dow, weather, page numbers)
+- 11.46 eyes, mouth, hands: draw emojis, analyse emoji emotions +write
+- 11.47 pinboard-pricing: saas dynamic, adaptive, open, early adopter reward as a lib
+- 11.51 rss epub: longreads as auto delivered newsletters. so, podcasts, but for ebooks? 60m voice @x wpm => reading time word target. add polly for robot-audio-books
+- 11.52 vpa: gmail, agenda > polly > podcasts. upsell native app with custom voices
+- 11.53 snowclones: this {face, voice, meme, handwriting, song, tweet, post, image} does not exist (TK: gutenberg, mozilla project)
+- pillars of the online. +write archive.org, wikimedia, gutenberg, email, fsf, eff, cc
+- 11.54 tshirt-cannon: buffer, but make it floss and run it locally. preview and typo/link check
+- 11.58 seedci and sst
+- 11.60 remote worker a/v starter pack (assume mbp + monitor)
+- 11.60 extract docs from review discussions for editing
+- +write computer pranks: cli driven ngrok chat autorefresh; say
+- MD-OCR:  #, _, *, [, ], :, ~
+- abbr, but like wikipedia hovers. fetch content at buildtime
+- floss project icon gen (text, emoji, shavatar, avataaaars)
+- mkdocs-peacock theme (random, cycle this list, allow selection from this list)
+- cc: lyzcodes domstack: substack, but with mkdocs-newsletter and starscribers +floss +code
+- 11.35 labelled gmail messages as an event/job queue (like rq => gq / gmailq) from free-ci runners
+- +write interactive fiction bitsy, twine (idea: alternative meet-cute) 
+- 11.63 mkdocs-theme-switcher
+- 11.64 mkdocs-wikimedia 
+- 💡 structured/dynamic markdown; schema field expressions; constraints; schema
+  - name=h1; h2 in (bio, playlist, hobbies, ideal partner, okcqs)
+- 11.67 ! word/rhyme/rap/synonyms/antonyms/related/remixed(% of letters re-used) battles; shared scrabble bag and scoring
+  - nouns vs verbs?
+  - POS wordgames: # of rounds; first to x points
+- 11.67 flutter turn based apps websockets on free tier slss; encode game state/sequence in S3; poll and animate client-side
+- 11.69 +ssg-webtoy +crowd-content +lists +TK:word-o-phile tripping.ly: words with good mouthfeel (TK: asmr, michael shermer)
+- 11.71 i _actually_ fed a bot movie scripts: script scraper, tmvdb metadata lookup. cf. shanelle, aicontent-aas
+- 11.77 doppelbot voice (cf. 11.37 digiganger) i-can-speak-spanish ttts(translated tts); universal translator/babelfish; descript, resemble.ai, lyrebird
