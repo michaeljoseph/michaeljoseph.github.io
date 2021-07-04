@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Michael Joseph
 
 ### Senior Software Developer / Team Lead

@@ -8,29 +8,33 @@ theme:
     name: material
     logo: media/avataaar.png
     features:
-       - navigation.tabs
        - navigation.instant
     palette:
-      - media: "(prefers-color-scheme: light)"
-        scheme: default
+      - scheme: slate
         primary: pink
-        #accent: 
         toggle:
-          icon: material/weather-sunny
-          name: Switch to dark mode
-      - media: "(prefers-color-scheme: dark)"
-        scheme: slate
+          icon: material/fingerprint
+          name: pink-mode
+      - scheme: slate
         primary: light blue
-        #accent:
         toggle:
-          icon: material/weather-night
-          name: Switch to light mode
+          icon: fontawesome/solid/robot
+          name: light-blue-mode
+      - scheme: slate
+        primary: purple
+        toggle:
+          icon: material/eye-outline
+          name: purple-mode
+      - scheme: slate
+        primary: teal
+        toggle:
+          icon: material/eye
+          name: teal-mode
+
 nav:
-  - 🏠: index.md
   - 🤓🤖 Resume: resume.md
 
 markdown_extensions:
-
     - attr_list:
     - codehilite:
     - meta:

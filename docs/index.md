@@ -1,10 +1,12 @@
 ---
-title: 🏠
----
+title: 👋 hi, i'm michael
+hide:
+  - toc
+--- 
 
 ![avatar](media/avataaar.png){ align=left height=200px width=200p }
 
-Hi, I'm Michael, Michael Joseph (yes, two first names, I know. MJ works as
+Michael Joseph (yes, two first names, I know. MJ works as
 an internet handle, for people into the whole brevity thing as well as for
 disambiguation purposes).
 
