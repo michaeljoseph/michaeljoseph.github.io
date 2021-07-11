@@ -6,15 +6,15 @@ hide:
 
 ### Senior Software Developer / Team Lead
 
-<!-- {% tech-xp %} -->
-
 ## Experience
-<!-- timeline -->
-### Team Lead @ Maple Syrup Media / Quidco.com &emsp; <small>*2014 - 2015*</small>
 
-TODO
+### Team Lead @ Maple Syrup Media / Quidco.com &emsp; <small>*2016 - *</small>
 
-### Senior Software Developer @ Intellection Software &emsp; <small>*2014 - 2015*</small>
+I lead one of the teams of that maintain and enhance Quidco's backend services platform. 
+
+`+php +nodejs +python +kubernetes +docker +aws`
+
+### Senior Software Developer @ Intellection Software &emsp; <small>*2014 - 2016*</small>
 
 I was part of the core team responsible for:
 - administering and configuring production and development clusters
@@ -57,7 +57,7 @@ Additional Roles:
 
 ### Senior Software Developer @ Jam Warehouse &emsp; <small>*2002 - 2007*</small>
 
-Software development team lead on the PHP, C# and Python development projects.
+Software development team lead on PHP, C# and Python development projects.
 
 #### Projects
 

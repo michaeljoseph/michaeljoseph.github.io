@@ -1,5 +1,6 @@
 site_name: michaeljoseph
 site_url: http://michaeljoseph.github.io
+site_author: Michael Joseph
 
 extra:
   hack_style: solarized_dark
@@ -7,6 +8,9 @@ extra:
 theme:
     name: material
     logo: media/avataaar.png
+    font:
+      text: Fira Mono
+      code: Fira Code 
     features:
        - navigation.instant
     palette:
@@ -34,7 +38,12 @@ theme:
 nav:
   - 🤓🤖 Resume: resume.md
 
+plugins:
+  - search
+  - git-revision-date
+  - macros
 markdown_extensions:
+    - abbr:
     - attr_list:
     - codehilite:
     - meta:
