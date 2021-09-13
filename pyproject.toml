@@ -3,6 +3,9 @@ name = "michaeljoseph.github.io"
 version = "0.1.0"
 description = ""
 authors = ["Michael Joseph <michaeljoseph+github@gmail.com>"]
+packages = [
+    { include = "resume", from = "src" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
@@ -10,8 +13,14 @@ mkdocs-material = "^7.1.9"
 mkdocs-macros-plugin = "^0.5.12"
 mkdocs-redirects = "^1.0.3"
 mkdocs-git-revision-date-plugin = "^0.3.1"
+toml = "^0.10.2"
+"pyChart.JS" = "^0.3.0"
+waybackpy = "^2.4.3"
+pyppeteer = "^0.2.5"
+mistune = {version = "2.0.0rc1", allow-prereleases = true}
 
 [tool.poetry.dev-dependencies]
+bpython = "^0.21"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
