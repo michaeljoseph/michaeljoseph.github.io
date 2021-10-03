@@ -86,7 +86,7 @@ def generate_badge_url(skill):
         [skill_id, 'for-the-badge', skill, 'white'],
     )))
 
-def skills_badge_urls(company=None):
+def skills_badges(company=None):
     badges = [
         generate_badge_url(skill)
         for skill in experience_skills(company)
@@ -96,7 +96,6 @@ def skills_badge_urls(company=None):
 
     return ' '.join([f'<img src="{url}"/>' for url in badges])
 
-
 def define_env(env):
-    env.variables['skills_badge_urls'] = skills_badge_urls
+    env.variables['skills_badges'] = skills_badges
     env.variables['typed_salutations'] = typed_salutations

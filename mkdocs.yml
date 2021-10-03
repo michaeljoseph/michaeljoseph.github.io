@@ -1,6 +1,7 @@
 site_name: michaeljoseph
 site_url: http://michaeljoseph.github.io
 site_author: Michael Joseph
+site_description: michaeljoseph as a website
 
 extra:
   hack_style: solarized_dark
