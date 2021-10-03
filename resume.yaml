@@ -3,8 +3,8 @@ basics:
   label: Senior Software Developer | Team Lead | Developer {Tools, Experience}
   summary: Senior Software Developer | Team Lead | Developer {Tools, Experience}
   website: http://michaeljoseph.github.io
-  email: first name last name at gmail
-  phone: 📲
+  email: 🤓first name last name at gmail
+  phone: :⛔️📲
   picture: https://michaeljoseph.github.io/media/avataaar.png
   location:
     address: South Africa
@@ -22,25 +22,20 @@ basics:
   - network: LinkedIn
     username: michaeljoseph
     url: https://www.linkedin.com/in/michaeljoseph/
-skills:
-  - keywords: ['todo', 'generate', 'this', 'during', 'badgegen also?']
-    level: ''
-    name: English
 work:
   - company: Quidco.com
-    endDate: '*'
+    endDate: '$(gdate -d "1 month")'
     highlights: []
     id: quidco.com
     linkedIn: quidco
     position: Team Lead
     startDate: '2016'
     summary: I lead one of the teams that maintain and improve Quidco's services platform.
-    url: https://quidco.com
-    wayback_start: https://web.archive.org/web/20160807024909/http://www.quidco.com:80/
-    skills:
-      - keywords: []
-        level: '5'
-        name: English
+    skills: php laravel symfony node.js python flask mkdocs mysql kubernetes helm docker tilt serverless amazon-aws cdk sqs lambda alpine-linux
+    urls:
+      - https://quidco.com
+      - https://www.shoop.fr
+      - https://www.shoop.de
   - company: Intellection Software
     endDate: '2016'
     highlights: []
@@ -53,13 +48,9 @@ work:
       - improving application deployment and continuous integration systems
       - general AWS administration
       - supporting Ruby On Rails web application developers
-    url: https://intellection.io
-    wayback: https://web.archive.org/web/20160514073541/http://intellection.io/
-    wayback_start: https://web.archive.org/web/20150615040431/http://intellection.io:80/
-    skills:
-      - keywords: []
-        level: '5'
-        name: English
+    skills: ruby ruby-on-rails mysql amazon-aws chef opsworks docker ansible
+    urls:
+      - https://intellection.io
   - company: Yola.com
     endDate: '2014'
     highlights: []
@@ -70,9 +61,9 @@ work:
     summary: Built out the Python Services API layer as part of the distributed architecture roadmap.
       Senior role with mslightly more focus on architecture discussions and code reviews.
       I wrote Java and PHP when required.
-    url: https://yola.com
-    wayback: https://web.archive.org/web/20140806172312/https://www.yola.com/
-    wayback_start: https://web.archive.org/web/20100807114231/http://www.yola.com:80/
+    urls:
+      - https://yola.com
+    skills: python django piston php java amazon-aws ubuntu
   - company: Sadalbari Open Software
     url: https://www.adapt-it.co.za
     endDate: '2010'
@@ -87,8 +78,7 @@ work:
     urls:
       - http://sadalbari.com
       - http://www.sadalbari.com/team.html
-    wayback: https://web.archive.org/web/20100417141522/http://www.sadalbari.com:80/
-    wayback_start: https://web.archive.org/web/20080724071858/http://sadalbari.com/
+    skills: java documentation consulting finco insureco telco ubuntu
   - company: AdaptIT
     endDate: '2008'
     highlights: []
@@ -102,9 +92,10 @@ work:
       - Technical leadership and mentoring
       - Application Design and Documentation
       - Work Breakdown, Allocation and Management
-    url: https://www.adapt-it.co.za
-    wayback: https://web.archive.org/web/20080919133954/http://www.adapt-it.co.za:80/
-    wayback_start: https://web.archive.org/web/20070814162734/http://www.adapt-it.co.za:80/
+    skills: python plone zope zodb rhel ubuntu
+    urls:
+      - https://www.adapt-it.co.za
+      - http://www.durban.gov.za
   - company: Jam Warehouse
     endDate: '2007'
     highlights: []
@@ -113,9 +104,13 @@ work:
     position: Senior Software Developer
     startDate: '2002'
     summary: Software development team lead on PHP, C# and Python development projects.
-    url: http://jamwarehouse.com
-    wayback: https://web.archive.org/web/20070808184416/http://www.jamwarehouse.com:80/
-    wayback_start: https://web.archive.org/web/20021006000037/http://www.jamwarehouse.com:80/
+    skills: php mysql freebsd debian c-sharp .net asp.net iis python plone cms zope zodb rhel
+    urls:
+      - http://jamwarehouse.com
+      - http://www.ktdms.com
+      - http://sourceforge.net/projects/ktdms
+      - http://www.branddirector.co.uk
+      - http://www.durban.gov.za
   - company: iTouch Labs
     endDate: '2002'
     highlights: []
@@ -128,9 +123,8 @@ work:
 
       We provided developer support services, localisable infrastructure applications
       and operating system level management services.
-    url: http://itouchlabs.com
-    wayback: https://web.archive.org/web/20020929142122/http://www.itouchlabs.com:80/
-    wayback_start: https://web.archive.org/web/20020929142122/http://www.itouchlabs.com:80/
+    skills: java ftp deployment documentation testing
+    urls: ['http://itouchlabs.com', 'http://www.itouchplc.com/index.php']
   - company: iTouch Ireland
     endDate: '2001'
     highlights: []
@@ -146,9 +140,9 @@ work:
 
       I represented iTouch Ireland at a database modelling workshop where we were tasked
       with designing a unified database model for all iTouch operations.
-    url: http://www.itouch.ie
-    wayback: https://web.archive.org/web/20010721163655/http://www.itouch.ie:80/
-    wayback_start: https://web.archive.org/web/20000815214237/http://www.itouch.ie:80/
+    skills: php java jsp ivr 4voice sms smpp sybase entity-relationship-modelling redhat
+    urls:
+      - http://www.itouch.ie
   - company: Vodacom
     endDate: '2000'
     highlights: []
@@ -157,9 +151,9 @@ work:
     position: Software Developer
     startDate: '1999'
     summary: Developer on a mobile network quality statistics OLAP database system.
-    url: http://vodacom.co.za
-    wayback: https://web.archive.org/web/20000815055322/http://www.vodacom.co.za:80/
-    wayback_start: https://web.archive.org/web/19991013100353/http://vodacom.co.za:80/
+    skills: holos oracle windows
+    urls:
+      - http://vodacom.co.za
   - company: Telkom
     endDate: '1999'
     highlights: []
@@ -169,9 +163,9 @@ work:
     startDate: '1999'
     summary: I was responsible for the development and maintenance of a VB6 application
       that managed circuit fault information in a an MS Access database.'
-    url: http://www.telkom.co.za
-    wayback: https://web.archive.org/web/19991001133942/http://www.telkom.co.za:80/
-    wayback_start: https://web.archive.org/web/19991001133942/http://www.telkom.co.za:80/
+    skills: vb6 msaccess windows
+    urls:
+      - http://www.telkom.co.za
 education:
 - area: Computer Science, Statistics
   courses: []
@@ -208,76 +202,28 @@ references:
     in the technology at hand were very basic.
 - name: Oliver O' Kelly
   reference: On request
-skills:
-- keywords: []
-  level: ''
-  name: English
-- keywords: []
-  level: ''
-  name: Python
-- keywords: []
-  level: ''
-  name: Bash
-- keywords: []
-  level: ''
-  name: GNU
-- keywords: []
-  level: ''
-  name: Architecture
-- keywords: []
-  level: ''
-  name: Oracle
-- keywords: []
-  level: ''
-  name: Testing
-- keywords: []
-  level: ''
-  name: Ruby
-- keywords: []
-  level: ''
-  name: Web Development
-- keywords: []
-  level: ''
-  name: Open Source
-- keywords: []
-  level: ''
-  name: Databases
-- keywords: []
-  level: ''
-  name: Web Applications
-- keywords: []
-  level: ''
-  name: C#
-- keywords: []
-  level: ''
-  name: JavaScript
-- keywords: []
-  level: ''
-  name: Software Development
-- keywords: []
-  level: ''
-  name: Product Management
-- keywords: []
-  level: ''
-  name: Software Design
-- keywords: []
-  level: ''
-  name: Integration
-- keywords: []
-  level: ''
-  name: PHP
-- keywords: []
-  level: ''
-  name: Agile Methodologies
-- keywords: []
-  level: ''
-  name: Leadership
-- keywords: []
-  level: ''
-  name: GNU/Linux
-- keywords: []
-  level: ''
-  name: Project Management
-- keywords: []
-  level: ''
-  name: Java
+endorsements:
+- English
+- Python
+- Bash
+- GNU
+- Architecture
+- Oracle
+- Testing
+- Ruby
+- Web Development
+- Open Source
+- Databases
+- Web Applications
+- C#
+- JavaScript
+- Software Development
+- Product Management
+- Software Design
+- Integration
+- PHP
+- Agile Methodologies
+- Leadership
+- GNU/Linux
+- Project Management
+- Java
