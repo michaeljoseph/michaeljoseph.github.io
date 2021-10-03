@@ -1,7 +1,6 @@
-from itertools import product
 from pathlib import Path
-import json
-import random
+
+from .salutations import typed_salutations
 
 
 def get_resume(format, name='resume'):
@@ -31,54 +30,6 @@ def experience_skills(job_id=None):
         return unique_skills
 
     return [s.strip() for s in skills[job_id].split('+') if s]
-
-
-def salutation_permutations():
-    """Say 'Hello, my name is' in a bunch of ways"""
-    hellojis = '👋 🌊 🙋 🖖'.split()
-
-    hello = (
-        'hello sawubona haai molo dumela'
-        'hi yo sup hiya hey howzit hoesit aweh hola heita'
-    ).split()
-    hello.extend(['whakind eksê', 'hoe lyk it'])
-
-    my_names_are = [
-        'my name is',
-        'my naam is',
-        'igama lami ngu',
-        'lebitso la ka ke'
-    ]
-
-    salutation_permutations = list(product(
-        hellojis, hello, my_names_are
-    ))
-    random.shuffle(salutation_permutations)
-
-    salutations =  [ 
-        f'🤓{emoji} {hello}, {my_name_is} '
-        for emoji, hello, my_name_is in salutation_permutations
-    ]
-    return salutations
-
-
-TYPED_JS = "https://cdn.jsdelivr.net/npm/typed.js@2.0.12"
-def typed_salutations():
-    return typed_js('h1', salutation_permutations())
-
-def typed_js(dom_element, things_to_type):
-    options = json.dumps(dict(
-        smartBackspace=True,
-        startDelay=3000,
-        showCursor=False,
-        typeSpeed=50,
-        strings=things_to_type,
-    ))
- 
-    return '\n'.join([
-        f'<script src="{TYPED_JS}"></script>',
-        f"<script>var typed = new Typed('{dom_element}', {options});</script>",
-    ])
 
 
 BADGE_URL_TEMPLATE = "https://img.shields.io/badge/{badge_name}?style={style}&logo={logo}&logoColor={colour}"
@@ -134,6 +85,7 @@ def generate_badge_url(skill):
         'badge_name style logo colour'.split(),
         [skill_id, 'for-the-badge', skill, 'white'],
     )))
+
 def skills_badge_urls(company=None):
     badges = [
         generate_badge_url(skill)
@@ -143,7 +95,6 @@ def skills_badge_urls(company=None):
     badges = [b for b in badges if b]
 
     return ' '.join([f'<img src="{url}"/>' for url in badges])
-
 
 
 def define_env(env):
