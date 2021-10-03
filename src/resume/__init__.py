@@ -1,7 +1,6 @@
+import json
+import yaml
 from pathlib import Path
-
-from .salutations import typed_salutations
-
 
 def get_resume(format, name='resume'):
     # TODO: load by format
@@ -95,7 +94,3 @@ def skills_badges(company=None):
     badges = [b for b in badges if b]
 
     return ' '.join([f'<img src="{url}"/>' for url in badges])
-
-def define_env(env):
-    env.variables['skills_badges'] = skills_badges
-    env.variables['typed_salutations'] = typed_salutations
