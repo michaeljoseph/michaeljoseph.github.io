@@ -1,13 +1,12 @@
+import json
+import random
+import yaml
+
 from collections import namedtuple
 from datetime import timedelta
 from functools import partial
-import json
-import yaml
-from pathlib import Path
-
 from itertools import product
-import json
-import random
+from pathlib import Path
 
 import requests
 
