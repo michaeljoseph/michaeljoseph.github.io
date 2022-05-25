@@ -1,10 +1,16 @@
 import json
 import yaml
 from pathlib import Path
+from functools import partial
 
-def get_resume(format, name='resume'):
-    # TODO: load by format
-    return (Path.cwd() / f'{name}.{format}').read_text()
+
+NLJ = partial('\n'.join)
+
+def load_resume(format='yaml', name='resume'):
+    return {
+        'yaml': yaml.safe_load,
+        'json': json.load,
+    }[format]((Path.cwd() / f'{name}.{format}').read_text())
 
 
 def experience_skills(job_id=None):
@@ -85,7 +91,7 @@ def generate_badge_url(skill):
         [skill_id, 'for-the-badge', skill, 'white'],
     )))
 
-def skills_badges(company=None):
+def shields_badges(company=None):
     badges = [
         generate_badge_url(skill)
         for skill in experience_skills(company)
@@ -93,4 +99,4 @@ def skills_badges(company=None):
     # remove unrecognised skills
     badges = [b for b in badges if b]
 
-    return ' '.join([f'<img src="{url}"/>' for url in badges])
+    return [f'<img src="{url}"/>' for url in badges]

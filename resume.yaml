@@ -26,7 +26,7 @@ work:
   - company: Quidco.com
     endDate: '$(gdate -d "1 month")'
     highlights: []
-    id: quidco.com
+    id: quidco
     linkedIn: quidco
     position: Team Lead
     startDate: '2016'
@@ -54,7 +54,7 @@ work:
   - company: Yola.com
     endDate: '2014'
     highlights: []
-    id: yola.com
+    id: yola
     linkedIn: yola.com
     position: Systems Engineer; Services Team Lead
     startDate: '2010'
@@ -68,7 +68,7 @@ work:
     url: https://www.adapt-it.co.za
     endDate: '2010'
     highlights: []
-    id: sadalbari-open-software
+    id: sadalbari
     linkedIn: sadalbari
     position: Senior Software Developer / Software Engineer
     startDate: '2008'
@@ -82,7 +82,7 @@ work:
   - company: AdaptIT
     endDate: '2008'
     highlights: []
-    id: adaptit
+    id: adapt-it
     linkedIn: adapt-it
     position: Senior Software Developer; Open Source Business Unit Manager
     startDate: '2007'
@@ -128,7 +128,7 @@ work:
   - company: iTouch Ireland
     endDate: '2001'
     highlights: []
-    id: itouch-ireland
+    id: itouch-ie
     linkedIn: itouch
     position: Software Developer
     startDate: '2000'
