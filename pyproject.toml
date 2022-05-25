@@ -19,7 +19,7 @@ waybackpy = "^2.4.3"
 pyppeteer = "^0.2.5"
 mistune = {version = "2.0.0rc1", allow-prereleases = true}
 pybadges = "^2.2.1"
-requests-cache = "^0.8.1"
+requests-cache = "^0.9.4"
 
 [tool.poetry.dev-dependencies]
 bpython = "^0.21"
