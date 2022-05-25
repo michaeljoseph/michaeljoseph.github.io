@@ -20,7 +20,7 @@ mistune = {version = "2.0.0rc1", allow-prereleases = true}
 pybadges = "^2.2.1"
 
 [tool.poetry.dev-dependencies]
-bpython = "^0.21"
+bpython = "^0.22"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
