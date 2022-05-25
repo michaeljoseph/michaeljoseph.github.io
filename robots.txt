@@ -1,4 +1,0 @@
-Sitemap: http://michaeljoseph.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: michaeljoseph.github.io
