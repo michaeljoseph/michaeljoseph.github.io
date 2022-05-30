@@ -9,7 +9,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.9"
-mkdocs-material = "^7.1.9"
+mkdocs-material = "^8.2.16"
 mkdocs-macros-plugin = "^0.5.12"
 mkdocs-redirects = "^1.0.3"
 mkdocs-git-revision-date-plugin = "^0.3.1"
