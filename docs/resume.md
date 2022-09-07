@@ -8,7 +8,7 @@ hide:
 
 ## Experience
 
-### Team Lead @ Maple Syrup Media / Quidco.com &emsp; <small>*2016 - 2021</small>
+### Team Lead @ Maple Syrup Media / Quidco.com &emsp; <small>*2016 - 2021*</small>
 
 I led one of the teams that maintain and enhance Quidco's backend services platform.
 
