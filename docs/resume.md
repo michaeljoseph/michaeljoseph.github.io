@@ -8,18 +8,22 @@ hide:
 
 ## Experience
 
-### Team Lead @ Maple Syrup Media / Quidco.com &emsp; <small>*2016 - *</small>
+### Team Lead @ Maple Syrup Media / Quidco.com &emsp; <small>*2016 - 2021</small>
 
-I lead one of the teams that maintain and enhance Quidco's backend services platform.
+I led one of the teams that maintain and enhance Quidco's backend services platform.
 
 {{ skills_badges('quidco') }}
 
 ### Senior Software Developer @ Intellection Software &emsp; <small>*2014 - 2016*</small>
 
 I was part of the core team responsible for:
+
 - administering and configuring production and development clusters
+
 - improving application deployment and continuous integration systems
+
 - general AWS administration
+
 - supporting Ruby On Rails web application developers
 
 {{ skills_badges('intellection') }}
@@ -48,8 +52,11 @@ Technical Lead of the Open Source Business Unit software development team.
 We built and maintained the intranet and internet sites for the eThekwini Municipality
 
 Additional Roles:
+
 - Technical leadership and mentoring
+
 - Application Design and Documentation
+
 - Work Breakdown, Allocation and Management
 
 {{ skills_badges('adapt-it') }}
