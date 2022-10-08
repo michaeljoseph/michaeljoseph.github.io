@@ -44,6 +44,6 @@ jobs:
         env:
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
         run: |
-          npx surge --project site \
-                    --domain michaeljoseph.surge.sh \
-                    --token ${{ secrets.SURGE_TOKEN }}
+          # npx surge --project site \
+          #          --domain michaeljoseph.surge.sh \
+          #          --token ${{ secrets.SURGE_TOKEN }}
