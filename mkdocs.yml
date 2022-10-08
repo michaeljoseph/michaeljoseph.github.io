@@ -11,7 +11,7 @@ theme:
     logo: media/avataaar.png
     font:
       text: Fira Mono
-      code: Fira Code 
+      code: Fira Code
     features:
        - navigation.instant
     palette:
@@ -38,6 +38,7 @@ theme:
 
 nav:
   - 🤓🤖 Resume: resume.md
+  - 🗣🎙 Talks: talks.md
 
 plugins:
   - search
