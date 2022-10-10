@@ -38,6 +38,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           publish_branch: main
+          cname: mycull.dev
 
       - name: Deploy to Surge
         if: github.ref == 'refs/heads/source'
