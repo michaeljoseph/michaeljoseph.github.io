@@ -24,7 +24,7 @@ basics:
     url: https://www.linkedin.com/in/michaeljoseph/
 work:
   - company: Quidco.com
-    endDate: '$(gdate -d "1 month")'
+    endDate: '2021'
     highlights: []
     id: quidco
     linkedIn: quidco

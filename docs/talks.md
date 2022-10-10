@@ -18,6 +18,7 @@ hide:
 
 <iframe src="https://archive.org/embed/pyconza2014-cookie-monster" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[Yola]: https://web.archive.org/web/20141010091702/https://www.yola.com/
 [🎥📼 PyconZA 2013]: https://2013.za.pycon.org/talks/28
 [🛝 Application to Platform: How we used Python to scale Yola]: http://michaeljoseph.github.io/application-to-platform/application-to-platform
 
