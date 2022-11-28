@@ -16,7 +16,7 @@ mkdocs-git-revision-date-plugin = "^0.3.1"
 toml = "^0.10.2"
 "pyChart.JS" = "^0.3.0"
 waybackpy = "^2.4.3"
-mistune = {version = "2.0.0rc1", allow-prereleases = true}
+mistune = {version = "3.0.0rc3", allow-prereleases = true}
 pybadges = "^2.2.1"
 MarkupSafe = "2.0.1"
 
