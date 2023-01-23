@@ -18,7 +18,7 @@ toml = "^0.10.2"
 waybackpy = "^2.4.3"
 mistune = {version = "2.0.0rc1", allow-prereleases = true}
 pybadges = "^2.2.1"
-MarkupSafe = "2.0.1"
+MarkupSafe = "2.1.2"
 
 [tool.poetry.dev-dependencies]
 bpython = "^0.21"
